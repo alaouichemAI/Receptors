@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: Lasso
+Family: linear
+Endpoint: pKi
+Species: all_SP
+Total Features: 14
+Top Features Count: 1
+Cumulative Importance: 0.7406
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+   pca1    0.241006               0.740609    0.740609

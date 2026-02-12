@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: CAT
+Family: tree
+Endpoint: homo
+Species: sapiens
+Total Features: 93
+Top Features Count: 1
+Cumulative Importance: 0.2479
+================================================================================
+
+          feature  importance  importance_normalized  cumulative
+Pharm2D_Gobbi_296   24.785466               0.247855    0.247855

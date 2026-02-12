@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: ET
+Family: tree
+Endpoint: pEC50
+Species: homo_sapiens
+Total Features: 267
+Top Features Count: 1
+Cumulative Importance: 0.2352
+================================================================================
+
+    feature  importance  importance_normalized  cumulative
+FP_MACCS_36    0.235237               0.235237    0.235237

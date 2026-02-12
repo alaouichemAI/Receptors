@@ -1,0 +1,14 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: PLS
+Family: pls
+Endpoint: Emax
+Species: mus_musculus
+Total Features: 46
+Top Features Count: 2
+Cumulative Importance: 0.1651
+================================================================================
+
+            feature  importance  importance_normalized  cumulative
+         GETAWAY_18    5.678306               0.089981    0.089981
+RDKit2D_VSA_EState9    4.742713               0.075155    0.165136

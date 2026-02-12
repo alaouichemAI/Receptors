@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: ENet
+Family: linear
+Endpoint: pKi
+Species: all_SP
+Total Features: 14
+Top Features Count: 1
+Cumulative Importance: 0.6873
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+   pca1    0.241486               0.687255    0.687255

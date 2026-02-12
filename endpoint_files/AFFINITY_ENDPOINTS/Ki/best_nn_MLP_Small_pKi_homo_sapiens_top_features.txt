@@ -1,0 +1,23 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: MLP_Small
+Family: nn
+Endpoint: pKi
+Species: homo_sapiens
+Total Features: 740
+Top Features Count: 11
+Cumulative Importance: 0.1996
+================================================================================
+
+                        feature  importance  importance_normalized  cumulative
+                       AC2D_148    0.012104               0.025755    0.025755
+                RDKit2D_fr_Ar_N    0.011893               0.025306    0.051062
+               RDKit2D_SMR_VSA7    0.009617               0.020463    0.071525
+RDKit2D_NumAromaticHeterocycles    0.009521               0.020259    0.091784
+       RDKit2D_NumAromaticRings    0.009342               0.019879    0.111663
+             RDKit2D_SlogP_VSA8    0.008598               0.018295    0.129958
+                 Tautomer_Score    0.008215               0.017480    0.147438
+             RDKit2D_SlogP_VSA6    0.006923               0.014731    0.162168
+                       AC2D_189    0.006807               0.014485    0.176653
+                       AC2D_113    0.005548               0.011805    0.188458
+               RDKit2D_SMR_VSA3    0.005222               0.011112    0.199570

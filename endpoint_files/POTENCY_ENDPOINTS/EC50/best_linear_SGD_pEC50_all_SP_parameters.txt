@@ -1,0 +1,18 @@
+Model: SGD
+Estimator: SGDRegressor
+Family: linear
+Endpoint: pEC50
+Species: all_SP
+Best MAE: 10.456009
+Dataset: 159 samples, 1620 features
+Target range: [4.4515, 9.9747]
+Trials completed: 19
+Trials pruned: 6
+Trials failed: 0
+Optimization time: 21.9s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+alpha: 0.005618045858263583
+l1_ratio: 0.4228738347125746

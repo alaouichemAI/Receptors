@@ -1,0 +1,18 @@
+Model: MLP_Tanh
+Estimator: MLPRegressor
+Family: nn
+Endpoint: pIC50
+Species: rattus_norvegicus
+Best MAE: 6.121155
+Dataset: 22 samples, 17 features
+Target range: [5.8495, 7.7447]
+Trials completed: 19
+Trials pruned: 6
+Trials failed: 0
+Optimization time: 65.8s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+alpha: 0.005877928404285454
+lr: 0.00010136923902617572

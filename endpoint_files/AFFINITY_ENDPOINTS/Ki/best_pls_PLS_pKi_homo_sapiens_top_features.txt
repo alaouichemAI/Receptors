@@ -1,0 +1,14 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: PLS
+Family: pls
+Endpoint: pKi
+Species: homo_sapiens
+Total Features: 38
+Top Features Count: 2
+Cumulative Importance: 0.1634
+================================================================================
+
+             feature  importance  importance_normalized  cumulative
+ FP_AtomPair1024_899    0.471300               0.086393    0.086393
+RDKit2D_BCUT2D_CHGLO    0.420127               0.077013    0.163406

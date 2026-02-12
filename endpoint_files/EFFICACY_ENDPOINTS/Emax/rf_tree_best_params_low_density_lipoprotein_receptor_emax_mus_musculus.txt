@@ -1,0 +1,52 @@
+Endpoint: low_density_lipoprotein_receptor_Emax_mus_musculus
+Best Stage: full_cv
+Baseline MAE 16.2765 | RMSE 23.1094 | R² -0.3206
+Optimized MAE 15.0670 | RMSE 21.7958 | R² -0.1748
+ΔMAE +1.2095 | ΔRMSE +1.3137 | ΔR² +0.1459
+Required improvements met: True
+Feasibility met: False
+Final training MAE 4.0902 | RMSE 5.7698 | R² 0.9177
+
+Best Parameters:
+corrflt__max_features: 256
+corrflt__preselect_k: 1800
+corrflt__thresh: 0.975
+dropna__add_flag: True
+dropna__threshold: 0.55
+iqrclip__k: 4
+minfrac__min_features: 32
+minfrac__min_fraction: 0.01
+rf__criterion: squared_error
+rf__max_depth: None
+rf__max_features: sqrt
+rf__max_samples: None
+rf__min_samples_leaf: 1
+rf__min_samples_split: 2
+rf__n_estimators: 180
+targetcorr__max_features: 128
+targetcorr__min_abs_corr: 0.04
+targetcorr__min_features: 32
+targetcorr__top_fraction: 0.1
+varflt__threshold: 0.0005
+
+Final Model Parameters:
+corrflt__max_features: 256
+corrflt__preselect_k: 1800
+corrflt__thresh: 0.975
+dropna__add_flag: True
+dropna__threshold: 0.55
+iqrclip__k: 4
+minfrac__min_features: 32
+minfrac__min_fraction: 0.01
+rf__criterion: squared_error
+rf__max_depth: None
+rf__max_features: sqrt
+rf__max_samples: None
+rf__min_samples_leaf: 1
+rf__min_samples_split: 2
+rf__n_estimators: 720
+targetcorr__max_features: 128
+targetcorr__min_abs_corr: 0.04
+targetcorr__min_features: 32
+targetcorr__top_fraction: 0.1
+varflt__threshold: 0.0005

@@ -1,0 +1,16 @@
+Endpoint: pec50
+Best Objective: 0.5946
+Dataset: 159 samples, 56 features
+
+Best Parameters:
+----------------------------------------
+clip_method: none
+corr_thresh: off
+imputer: median
+n_components: 2
+na_flag: True
+na_thresh: 0.15800568700422982
+pls_scale: True
+scaler: standard
+skew_fix: yeo-johnson
+var_thresh: 0.0001

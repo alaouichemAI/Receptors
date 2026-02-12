@@ -1,0 +1,28 @@
+Endpoint: pKi
+Samples: 72 | Features: 519
+Best Model: NeuralNetwork_4L_187U_selu
+
+Best Hyperparameters:
+----------------------------------------
+act: selu
+batch_size: 32
+corr_thr: 0.95
+decay: 0.6908668186792172
+dropout: 0.02373348904329302
+lr: 0.0007187762195488565
+n_layers: 4
+na_thresh: 0.3665944551241786
+pca: None
+scaler: robust
+units: 187
+var_thr: 1e-05
+
+Baseline Metrics:
+mae: 7.3058
+rmse: 8.4974
+r2: -46.6482
+
+Final Metrics:
+mae: 0.9929
+rmse: 1.2977
+r2: -0.1112

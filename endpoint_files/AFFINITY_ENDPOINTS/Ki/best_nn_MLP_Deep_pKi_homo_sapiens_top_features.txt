@@ -1,0 +1,30 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: MLP_Deep
+Family: nn
+Endpoint: pKi
+Species: homo_sapiens
+Total Features: 740
+Top Features Count: 18
+Cumulative Importance: 0.1991
+================================================================================
+
+                        feature  importance  importance_normalized  cumulative
+               RDKit2D_SMR_VSA7    0.039457               0.021787    0.021787
+             RDKit2D_SlogP_VSA6    0.032677               0.018043    0.039830
+             RDKit2D_SlogP_VSA8    0.032576               0.017988    0.057818
+       RDKit2D_NumAromaticRings    0.025759               0.014223    0.072041
+            FP_AtomPair1024_607    0.024677               0.013626    0.085668
+           RDKit2D_EState_VSA11    0.024276               0.013404    0.099072
+                       AC2D_150    0.020548               0.011346    0.110418
+                        AC2D_90    0.019788               0.010926    0.121345
+                 Tautomer_Score    0.016274               0.008986    0.130331
+                         AC2D_5    0.015814               0.008732    0.139063
+                        AC2D_15    0.015597               0.008612    0.147675
+                         AC2D_7    0.014949               0.008255    0.155930
+                        AC2D_52    0.014353               0.007925    0.163855
+          Graph_Centrality_Mean    0.013702               0.007566    0.171421
+                        AC2D_53    0.012863               0.007103    0.178524
+            FP_AtomPair1024_443    0.012563               0.006937    0.185461
+                  RDKit2D_Chi3n    0.012351               0.006820    0.192281
+RDKit2D_NumAromaticHeterocycles    0.012349               0.006819    0.199099

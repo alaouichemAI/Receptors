@@ -1,0 +1,17 @@
+Endpoint: pic50
+Best Objective: inf
+Dataset: 22 samples, 50 features
+
+Best Parameters:
+----------------------------------------
+clip_method: zscore
+corr_thresh: 0.98
+imputer: mean
+n_components: 5
+na_flag: False
+na_thresh: 0.22226397316602198
+pls_scale: True
+scaler: standard
+skew_fix: yeo-johnson
+var_thresh: 0.0001
+z_lim: 2.663598548330588

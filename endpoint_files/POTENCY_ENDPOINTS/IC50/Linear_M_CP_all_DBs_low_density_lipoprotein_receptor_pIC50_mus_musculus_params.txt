@@ -1,0 +1,28 @@
+Endpoint: pic50
+Samples: 14 | Features: 664
+Best Model: elasticnet
+
+Best Hyperparameters:
+----------------------------------------
+clip_method: none
+corr_thresh: off
+en_alpha: 9.354204788347001
+en_l1_ratio: 0.11662237484389099
+imputer: median
+model_type: elasticnet
+na_flag: True
+na_thresh: 0.3168844904845625
+pca: 0.99
+scaler: robust
+skew_fix: log1p
+var_thresh: 0.0
+
+Baseline Metrics:
+mae: 0.0844
+rmse: 0.1043
+r2: -4998550676.1632
+
+Final Metrics:
+mae: 0.0663
+rmse: 0.0823
+r2: -568472007.7763

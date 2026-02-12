@@ -1,0 +1,19 @@
+Model: MLP_Wide
+Estimator: MLPRegressor
+Family: nn
+Endpoint: pEC50
+Species: mus_musculus
+Best MAE: 1.794233
+Dataset: 50 samples, 2647 features
+Target range: [4.8495, 7.8539]
+Trials completed: 18
+Trials pruned: 7
+Trials failed: 0
+Optimization time: 137.0s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+activation: relu
+alpha: 3.511356313970405e-05
+lr: 0.00023270677083837802

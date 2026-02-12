@@ -1,0 +1,14 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: PLS
+Family: pls
+Endpoint: pEC50
+Species: all_SP
+Total Features: 50
+Top Features Count: 2
+Cumulative Importance: 0.1567
+================================================================================
+
+        feature  importance  importance_normalized  cumulative
+FP_RDKit512_377    0.412525               0.089833    0.089833
+FP_RDKit512_123    0.306933               0.066839    0.156671

@@ -1,0 +1,19 @@
+Model: MLP_Small
+Estimator: MLPRegressor
+Family: nn
+Endpoint: pIC50
+Species: bovine
+Best MAE: 1.656162
+Dataset: 159 samples, 99 features
+Target range: [3.3724, 6.3724]
+Trials completed: 21
+Trials pruned: 4
+Trials failed: 0
+Optimization time: 95.8s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+activation: relu
+alpha: 0.00020094111846413425
+lr: 0.009844265640418851

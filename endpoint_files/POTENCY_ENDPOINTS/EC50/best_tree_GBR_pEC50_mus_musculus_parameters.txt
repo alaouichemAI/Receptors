@@ -1,0 +1,21 @@
+Model: GBR
+Estimator: GradientBoostingRegressor
+Family: tree
+Endpoint: pEC50
+Species: mus_musculus
+Best MAE: 0.319593
+Dataset: 50 samples, 92 features
+Target range: [4.8495, 7.8539]
+Trials completed: 25
+Trials pruned: 0
+Trials failed: 0
+Optimization time: 37.9s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_estimators: 150
+learning_rate: 0.06195949640316464
+max_depth: 5
+subsample: 0.8554329363426336
+min_samples_leaf: 3

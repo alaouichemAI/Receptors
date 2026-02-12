@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: Adaboost
+Family: tree
+Endpoint: pIC50
+Species: all_SP
+Total Features: 644
+Top Features Count: 1
+Cumulative Importance: 0.1359
+================================================================================
+
+              feature  importance  importance_normalized  cumulative
+FP_Morgan1024_r2_1010    0.135948               0.135948    0.135948

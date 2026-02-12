@@ -1,0 +1,15 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: ENet
+Family: linear
+Endpoint: pEC50
+Species: all_SP
+Total Features: 1620
+Top Features Count: 3
+Cumulative Importance: 0.1764
+================================================================================
+
+             feature  importance  importance_normalized  cumulative
+FP_Morgan1024_r2_260    0.288053               0.081652    0.081652
+FP_Morgan1024_r2_253    0.200098               0.056721    0.138373
+ FP_AtomPair1024_695    0.134100               0.038013    0.176386

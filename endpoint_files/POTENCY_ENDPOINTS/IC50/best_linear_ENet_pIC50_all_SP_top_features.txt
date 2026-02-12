@@ -1,0 +1,15 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: ENet
+Family: linear
+Endpoint: pIC50
+Species: all_SP
+Total Features: 2146
+Top Features Count: 3
+Cumulative Importance: 0.1792
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+ RDF_26    2.784835               0.061251    0.061251
+RDF_177    2.773258               0.060996    0.122247
+RDF_176    2.590620               0.056979    0.179226

@@ -1,0 +1,27 @@
+Endpoint: pic50
+Samples: 751 | Features: 2146
+Best Model: lasso
+
+Best Hyperparameters:
+----------------------------------------
+clip_method: none
+corr_thresh: off
+imputer: median
+lasso_alpha: 0.001199564336198437
+model_type: lasso
+na_flag: False
+na_thresh: 0.22325988875883987
+pca: none
+scaler: none
+skew_fix: log1p
+var_thresh: 0.0001
+
+Baseline Metrics:
+mae: 0.7795
+rmse: 1.0695
+r2: 0.3536
+
+Final Metrics:
+mae: 0.5309
+rmse: 0.8128
+r2: 0.6110

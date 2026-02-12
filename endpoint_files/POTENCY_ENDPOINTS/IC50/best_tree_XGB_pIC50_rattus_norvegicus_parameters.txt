@@ -1,0 +1,23 @@
+Model: XGB
+Estimator: XGBRegressor
+Family: tree
+Endpoint: pIC50
+Species: rattus_norvegicus
+Best MAE: 0.268672
+Dataset: 22 samples, 91 features
+Target range: [5.8495, 7.7447]
+Trials completed: 25
+Trials pruned: 0
+Trials failed: 0
+Optimization time: 98.5s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_estimators: 800
+max_depth: 5
+learning_rate: 0.19001838847981878
+subsample: 0.6467203396438477
+colsample: 0.8407434980706122
+reg_lambda: 9.555506124061472
+reg_alpha: 0.029701071356631626

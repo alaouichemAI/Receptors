@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: SGD
+Family: linear
+Endpoint: pKi
+Species: all_SP
+Total Features: 14
+Top Features Count: 1
+Cumulative Importance: 0.1464
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+  pca10    0.223715                0.14641     0.14641

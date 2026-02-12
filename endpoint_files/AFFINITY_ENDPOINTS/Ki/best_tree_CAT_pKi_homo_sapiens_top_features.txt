@@ -1,0 +1,14 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: CAT
+Family: tree
+Endpoint: pKi
+Species: homo_sapiens
+Total Features: 129
+Top Features Count: 2
+Cumulative Importance: 0.1583
+================================================================================
+
+             feature  importance  importance_normalized  cumulative
+RDKit2D_BCUT2D_CHGHI    9.160484               0.091605    0.091605
+RDKit2D_BCUT2D_CHGLO    6.667024               0.066670    0.158275

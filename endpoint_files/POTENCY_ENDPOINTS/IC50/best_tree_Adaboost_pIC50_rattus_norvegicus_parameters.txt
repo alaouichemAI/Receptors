@@ -1,0 +1,19 @@
+Model: Adaboost
+Estimator: AdaBoostRegressor
+Family: tree
+Endpoint: pIC50
+Species: rattus_norvegicus
+Best MAE: 0.240870
+Dataset: 22 samples, 91 features
+Target range: [5.8495, 7.7447]
+Trials completed: 15
+Trials pruned: 10
+Trials failed: 0
+Optimization time: 24.6s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_estimators: 150
+learning_rate: 0.2900345978386562
+loss: linear

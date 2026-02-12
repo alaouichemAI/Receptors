@@ -1,0 +1,16 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: CAT
+Family: tree
+Endpoint: pEC50
+Species: mus_musculus
+Total Features: 92
+Top Features Count: 4
+Cumulative Importance: 0.1860
+================================================================================
+
+        feature  importance  importance_normalized  cumulative
+    GETAWAY_203    4.942171               0.049422    0.049422
+FP_RDKit512_503    4.714371               0.047144    0.096565
+         AC2D_2    4.523153               0.045232    0.141797
+       MORSE_38    4.422952               0.044230    0.186026

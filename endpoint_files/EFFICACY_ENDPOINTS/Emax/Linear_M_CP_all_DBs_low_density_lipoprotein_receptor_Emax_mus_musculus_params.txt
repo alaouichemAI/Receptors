@@ -1,0 +1,28 @@
+Endpoint: Unknown_Endpoint
+Samples: 42 | Features: 866
+Best Model: ridge
+
+Best Hyperparameters:
+----------------------------------------
+clip_method: zscore
+corr_thresh: 0.9
+imputer: median
+model_type: ridge
+na_flag: True
+na_thresh: 0.2993621937800402
+pca: 0.95
+ridge_alpha: 0.039730213164023975
+scaler: none
+skew_fix: log1p
+var_thresh: 0.0001
+z_limit: 3.344346626086339
+
+Baseline Metrics:
+mae: 17.2926
+rmse: 22.4965
+r2: -1.4257
+
+Final Metrics:
+mae: 10.7146
+rmse: 13.4451
+r2: 0.2639

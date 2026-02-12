@@ -1,0 +1,18 @@
+Model: SGD
+Estimator: SGDRegressor
+Family: linear
+Endpoint: Emax
+Species: mus_musculus
+Best MAE: 17.996268
+Dataset: 42 samples, 26 features
+Target range: [0.0000, 100.0000]
+Trials completed: 20
+Trials pruned: 5
+Trials failed: 0
+Optimization time: 14.2s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+alpha: 0.0007156923123551337
+l1_ratio: 0.6472204460094831

@@ -1,0 +1,21 @@
+Model: GBR
+Estimator: GradientBoostingRegressor
+Family: tree
+Endpoint: pIC50
+Species: rattus_norvegicus
+Best MAE: 0.323154
+Dataset: 22 samples, 91 features
+Target range: [5.8495, 7.7447]
+Trials completed: 21
+Trials pruned: 4
+Trials failed: 0
+Optimization time: 135.5s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_estimators: 300
+learning_rate: 0.01518747922672247
+max_depth: 4
+subsample: 0.8099085529881075
+min_samples_leaf: 5

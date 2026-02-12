@@ -1,0 +1,14 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: Adaboost
+Family: tree
+Endpoint: Emax
+Species: mus_musculus
+Total Features: 107
+Top Features Count: 2
+Cumulative Importance: 0.1915
+================================================================================
+
+   feature  importance  importance_normalized  cumulative
+   AC3D_66    0.097848               0.097848    0.097848
+GETAWAY_83    0.093656               0.093656    0.191504

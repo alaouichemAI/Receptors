@@ -1,0 +1,215 @@
+{
+  "endpoint": "low_density_lipoprotein_receptor_pEC50_mus_musculus",
+  "dataset": {
+    "samples": 50,
+    "initial_features": 2647,
+    "targetcorr_kept_avg": 159.0,
+    "corrflt_kept_avg": 72.6,
+    "final_feature_count": 72.6
+  },
+  "baseline_metrics": {
+    "mae": 0.32486777872589073,
+    "rmse": 0.43587275417352556,
+    "r2": 0.6708523920809215,
+    "fold_mae_mean": 0.3262053799850962,
+    "fold_mae_std": 0.0962349468421794,
+    "fold_r2_mean": -2.3282531083733145,
+    "fold_r2_std": 5.704703119850415,
+    "training_wall_time_sec": 1.7971282005310059,
+    "completed_folds": 5,
+    "total_folds": 5,
+    "early_stopped": false,
+    "missing_fraction_mean": 0.0,
+    "weight_stats": {
+      "min": 0.2531585351532043,
+      "median": 1.0152416625478935,
+      "max": 1.0152416625478935
+    },
+    "objective": 0.3470687738154177,
+    "feasible": false,
+    "step_logs": {
+      "dropna": {
+        "features_out_": 2647.0,
+        "fit_time_": 0.00024703999515622853,
+        "transform_time_": 0.0008581600035540759
+      },
+      "impute": {
+        "features_out_": 2647.0,
+        "fit_time_": 0.0031805799808353186,
+        "transform_time_": 0.00012093998957425356
+      },
+      "targetcorr": {
+        "features_out_": 128.0,
+        "fit_time_": 0.006641159998252988,
+        "transform_time_": 0.00015283998800441623
+      },
+      "corrflt": {
+        "features_out_": 128.0,
+        "fit_time_": 1.2280000373721122e-05,
+        "transform_time_": 7.00005330145359e-07
+      },
+      "rf": {
+        "features_out_": 128.0,
+        "fit_time_": 0.18134355997899548
+      }
+    },
+    "eval_context": {
+      "mode": "eval_rf",
+      "estimator_type": "rf",
+      "fold_signature": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "total_folds": 5,
+      "random_state": 42
+    }
+  },
+  "optimized_cv_metrics": {
+    "mae": 0.2967308111812521,
+    "rmse": 0.4040001828729697,
+    "r2": 0.7172293167535839,
+    "fold_mae_mean": 0.29005718878303116,
+    "fold_mae_std": 0.08617954582633086,
+    "fold_r2_mean": -1.2744041611098975,
+    "fold_r2_std": 3.702917070107691,
+    "training_wall_time_sec": 6.316425800323486,
+    "completed_folds": 5,
+    "total_folds": 5,
+    "early_stopped": false,
+    "missing_fraction_mean": 0.0,
+    "weight_stats": {
+      "min": 0.2531585351532043,
+      "median": 1.0152416625478935,
+      "max": 1.0152416625478935
+    },
+    "objective": 0.31818468551959567,
+    "feasible": false,
+    "step_logs": {
+      "dropna": {
+        "features_out_": 2647.0,
+        "fit_time_": 0.00028096000896766783,
+        "transform_time_": 0.0007755799917504192
+      },
+      "impute": {
+        "features_out_": 2647.0,
+        "fit_time_": 0.004571420000866055,
+        "transform_time_": 0.0001533999922685325
+      },
+      "iqrclip": {
+        "features_out_": 2647.0,
+        "fit_time_": 0.44569349999073893,
+        "transform_time_": 0.0007439199718646706
+      },
+      "varflt": {
+        "features_out_": 1874.2,
+        "fit_time_": 0.00017999999690800905,
+        "transform_time_": 0.0004309800104238093
+      },
+      "minfrac": {
+        "features_out_": 1874.2,
+        "fit_time_": 0.0001771199982613325,
+        "transform_time_": 0.00031388000352308156
+      },
+      "targetcorr": {
+        "features_out_": 159.0,
+        "fit_time_": 0.001723000011406839,
+        "transform_time_": 7.025997620075941e-05
+      },
+      "corrflt": {
+        "features_out_": 72.6,
+        "fit_time_": 0.1705089999944903,
+        "transform_time_": 0.00011511999182403087
+      },
+      "rf": {
+        "features_out_": 72.6,
+        "fit_time_": 0.29611066001234576
+      }
+    },
+    "eval_context": {
+      "mode": "eval_rf",
+      "estimator_type": "rf",
+      "fold_signature": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "total_folds": 5,
+      "random_state": 42
+    }
+  },
+  "improvements": {
+    "mae_gain": 0.028136967544638625,
+    "rmse_gain": 0.031872571300555874,
+    "r2_gain": 0.04637692467266241
+  },
+  "final_training_metrics": {
+    "mae": 0.12949745476627203,
+    "rmse": 0.18149873832466643,
+    "r2": 0.9429286062515027
+  },
+  "final_feature_snapshot": {
+    "targetcorr_kept": 159,
+    "corrflt_kept": 92,
+    "rf_input_features": 92
+  },
+  "best_stage": "refine2",
+  "best_params": {
+    "rf__n_estimators": 239,
+    "targetcorr__min_features": 159,
+    "targetcorr__max_features": 1345,
+    "minfrac__min_features": 32,
+    "corrflt__max_features": 255,
+    "corrflt__preselect_k": 1196,
+    "corrflt__thresh": 0.97,
+    "dropna__threshold": 0.39,
+    "dropna__add_flag": true,
+    "minfrac__min_fraction": 0.0158,
+    "targetcorr__min_abs_corr": 0.064,
+    "targetcorr__top_fraction": 0.05,
+    "targetcorr__hard_min_abs_corr": true,
+    "varflt__threshold": 0.001,
+    "iqrclip__k": 1.95,
+    "rf__max_depth": 42,
+    "rf__max_features": 0.25,
+    "rf__min_samples_leaf": 2,
+    "rf__min_samples_split": 5,
+    "rf__max_samples": null,
+    "rf__criterion": "squared_error"
+  },
+  "final_params_for_model": {
+    "rf__n_estimators": 956,
+    "targetcorr__min_features": 159,
+    "targetcorr__max_features": 1345,
+    "minfrac__min_features": 32,
+    "corrflt__max_features": 255,
+    "corrflt__preselect_k": 1196,
+    "corrflt__thresh": 0.97,
+    "dropna__threshold": 0.39,
+    "dropna__add_flag": true,
+    "minfrac__min_fraction": 0.0158,
+    "targetcorr__min_abs_corr": 0.064,
+    "targetcorr__top_fraction": 0.05,
+    "targetcorr__hard_min_abs_corr": true,
+    "varflt__threshold": 0.001,
+    "iqrclip__k": 1.95,
+    "rf__max_depth": 42,
+    "rf__max_features": 0.25,
+    "rf__min_samples_leaf": 2,
+    "rf__min_samples_split": 5,
+    "rf__max_samples": null,
+    "rf__criterion": "squared_error"
+  },
+  "search_evaluations": 397,
+  "required_gains": {
+    "mae": 0.25,
+    "rmse": 0.25,
+    "r2": 0.01
+  },
+  "improvement_target_met": false,
+  "feasibility_met": false
+}

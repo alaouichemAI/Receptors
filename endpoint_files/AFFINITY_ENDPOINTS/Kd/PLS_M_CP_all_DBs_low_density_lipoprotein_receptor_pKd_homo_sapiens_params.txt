@@ -1,0 +1,17 @@
+Endpoint: pkd
+Best Objective: 0.7385
+Dataset: 44 samples, 50 features
+
+Best Parameters:
+----------------------------------------
+clip_method: zscore
+corr_thresh: 0.98
+imputer: constant
+n_components: 24
+na_flag: False
+na_thresh: 0.2626113964233427
+pls_scale: True
+scaler: standard
+skew_fix: none
+var_thresh: 0.0
+z_lim: 3.997084773956266

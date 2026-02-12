@@ -1,0 +1,16 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: RF
+Family: tree
+Endpoint: Emax
+Species: mus_musculus
+Total Features: 107
+Top Features Count: 4
+Cumulative Importance: 0.1762
+================================================================================
+
+    feature  importance  importance_normalized  cumulative
+ GETAWAY_83    0.051229               0.051229    0.051229
+GETAWAY_138    0.044127               0.044127    0.095356
+    AC3D_68    0.043001               0.043001    0.138357
+    RDF_191    0.037826               0.037826    0.176183

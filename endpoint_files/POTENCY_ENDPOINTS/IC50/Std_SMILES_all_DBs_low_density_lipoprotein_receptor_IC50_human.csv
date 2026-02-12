@@ -1,0 +1,12 @@
+SMILES,IC50,IC50-min,IC50-max
+COC(=O)c1c2nc3ccc(N(C)C)cc3oc-2c(O)c(=O)c1N,5230.0,5230.0,5230.0
+COC(=O)c1c2nc3ccc(N(C)C)cc3oc-2c(O)c(=O)c1Nc1ccccc1,6160.0,6160.0,6160.0
+COC(=O)c1c2nc3ccc(N(C)C)cc3oc-2c(O)c(=O)c1Nc1ccc(C)cc1,3770.0,3770.0,3770.0
+COC(=O)c1c2nc3ccc(N(C)C)cc3oc-2c(O)c(=O)c1Nc1ccc(OC)cc1,4710.0,4710.0,4710.0
+COC(=O)c1c2nc3ccc(N(C)C)cc3oc-2c(O)c(=O)c1Nc1ccc(Cl)c(Cl)c1,4870.0,4870.0,4870.0
+COC(=O)c1c2nc3ccc(N(C)C)cc3oc-2c(O)c(=O)c1NCc1ccc(OC)cc1,4330.0,4330.0,4330.0
+COC(=O)c1c2nc3ccc(N(C)C)cc3oc-2c(O)c(=O)c1N1CCCCC1,5500.0,5500.0,5500.0
+COC(=O)c1c2nc3ccc(N(C)C)cc3oc-2c(O)c(=O)c1NC1CCCCC1,4060.0,4060.0,4060.0
+COC(=O)c1c2nc3ccc(N(C)C)cc3oc-2c(O)c(=O)c1N1CCOCC1,3740.0,3740.0,3740.0
+COC(=O)c1c2nc3ccc(N(C)C)cc3oc-2c(O)c(=O)c1NC1CCCC1,4610.0,4610.0,4610.0
+CCCCOC(=O)c1c2nc3ccc(N(C)C)cc3oc-2c(O)c(=O)c1NCc1ccc(OC)cc1,3380.0,3380.0,3380.0

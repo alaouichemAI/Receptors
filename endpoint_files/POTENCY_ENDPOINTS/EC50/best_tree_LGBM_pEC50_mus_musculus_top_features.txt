@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: LGBM
+Family: tree
+Endpoint: pEC50
+Species: mus_musculus
+Total Features: 92
+Top Features Count: 1
+Cumulative Importance: 0.2375
+================================================================================
+
+   feature  importance  importance_normalized  cumulative
+GETAWAY_55          95                 0.2375      0.2375

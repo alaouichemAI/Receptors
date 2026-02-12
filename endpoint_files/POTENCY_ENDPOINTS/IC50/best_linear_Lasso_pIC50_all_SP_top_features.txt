@@ -1,0 +1,14 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: Lasso
+Family: linear
+Endpoint: pIC50
+Species: all_SP
+Total Features: 2146
+Top Features Count: 2
+Cumulative Importance: 0.1445
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+ RDF_26    3.053304               0.074882    0.074882
+RDF_176    2.836967               0.069576    0.144457

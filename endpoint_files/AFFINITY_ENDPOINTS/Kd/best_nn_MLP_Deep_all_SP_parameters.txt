@@ -1,0 +1,19 @@
+Model: MLP_Deep
+Estimator: MLPRegressor
+Family: nn
+Endpoint: all
+Species: SP
+Best MAE: 1.307951
+Dataset: 44 samples, 1074 features
+Target range: [-0.5431, 9.5229]
+Trials completed: 20
+Trials pruned: 5
+Trials failed: 0
+Optimization time: 57.1s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+activation: tanh
+alpha: 0.0010012414723849369
+lr: 0.0001541307365043111

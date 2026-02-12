@@ -1,0 +1,24 @@
+Model: LGBM
+Estimator: LGBMRegressor
+Family: tree
+Endpoint: pIC50
+Species: bovine
+Best MAE: 0.014242
+Dataset: 159 samples, 276 features
+Target range: [3.3724, 6.3724]
+Trials completed: 20
+Trials pruned: 5
+Trials failed: 0
+Optimization time: 84.1s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_estimators: 450
+max_depth: 3
+learning_rate: 0.01665923021553347
+num_leaves: 124
+subsample: 0.7829438023809497
+colsample: 0.8634823758940222
+reg_lambda: 0.1833851007156574
+reg_alpha: 0.010984521167136831

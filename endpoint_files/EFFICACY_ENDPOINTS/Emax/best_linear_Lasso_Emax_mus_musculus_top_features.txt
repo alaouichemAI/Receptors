@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: Lasso
+Family: linear
+Endpoint: Emax
+Species: mus_musculus
+Total Features: 26
+Top Features Count: 1
+Cumulative Importance: 0.2002
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+   pca8    7.360965               0.200211    0.200211

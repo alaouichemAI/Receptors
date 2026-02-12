@@ -1,0 +1,19 @@
+Model: Adaboost
+Estimator: AdaBoostRegressor
+Family: tree
+Endpoint: pIC50
+Species: bovine
+Best MAE: 0.084771
+Dataset: 159 samples, 276 features
+Target range: [3.3724, 6.3724]
+Trials completed: 24
+Trials pruned: 1
+Trials failed: 0
+Optimization time: 46.2s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_estimators: 75
+learning_rate: 0.01699897838270077
+loss: square

@@ -1,0 +1,20 @@
+Model: CAT
+Estimator: CatBoostRegressor
+Family: tree
+Endpoint: all
+Species: SP
+Best MAE: 1.201739
+Dataset: 44 samples, 128 features
+Target range: [-0.5431, 9.5229]
+Trials completed: 24
+Trials pruned: 1
+Trials failed: 0
+Optimization time: 166.5s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+iterations: 300
+depth: 6
+learning_rate: 0.03647316284911211
+l2_leaf_reg: 1.9553708662745248

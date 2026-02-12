@@ -1,0 +1,15 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: Lasso
+Family: linear
+Endpoint: pEC50
+Species: all_SP
+Total Features: 1620
+Top Features Count: 3
+Cumulative Importance: 0.1933
+================================================================================
+
+               feature  importance  importance_normalized  cumulative
+  FP_Morgan1024_r2_260    0.295569               0.082556    0.082556
+  FP_Morgan1024_r2_253    0.223285               0.062366    0.144922
+FP_TopoTorsion1024_694    0.173221               0.048383    0.193305

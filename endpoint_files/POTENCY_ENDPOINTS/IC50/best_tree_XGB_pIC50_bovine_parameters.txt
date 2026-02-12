@@ -1,0 +1,23 @@
+Model: XGB
+Estimator: XGBRegressor
+Family: tree
+Endpoint: pIC50
+Species: bovine
+Best MAE: 0.007617
+Dataset: 159 samples, 276 features
+Target range: [3.3724, 6.3724]
+Trials completed: 14
+Trials pruned: 11
+Trials failed: 0
+Optimization time: 116.6s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_estimators: 600
+max_depth: 7
+learning_rate: 0.11073638537906104
+subsample: 0.7018834018876883
+colsample: 0.9904352218329231
+reg_lambda: 1.6495634240352106
+reg_alpha: 0.04801943379928181

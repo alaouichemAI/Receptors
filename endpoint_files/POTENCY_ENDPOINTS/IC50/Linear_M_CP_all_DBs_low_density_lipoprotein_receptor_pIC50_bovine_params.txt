@@ -1,0 +1,28 @@
+Endpoint: pic50
+Samples: 159 | Features: 1146
+Best Model: huber
+
+Best Hyperparameters:
+----------------------------------------
+clip_method: none
+corr_thresh: off
+huber_alpha: 0.02295738646231353
+huber_epsilon: 1.0918265819399775
+imputer: median
+model_type: huber
+na_flag: False
+na_thresh: 0.3693307543624328
+pca: 0.99
+scaler: standard
+skew_fix: quantile
+var_thresh: 0.0001
+
+Baseline Metrics:
+mae: 0.2828
+rmse: 0.3911
+r2: -1078925342721.2168
+
+Final Metrics:
+mae: 0.2054
+rmse: 0.2787
+r2: -351589132721.3026

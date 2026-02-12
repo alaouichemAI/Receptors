@@ -1,0 +1,22 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: RF
+Family: tree
+Endpoint: pEC50
+Species: homo_sapiens
+Total Features: 267
+Top Features Count: 10
+Cumulative Importance: 0.1949
+================================================================================
+
+               feature  importance  importance_normalized  cumulative
+           FP_MACCS_36    0.028927               0.028927    0.028927
+           GETAWAY_261    0.025628               0.025628    0.054555
+       FP_RDKit512_377    0.023592               0.023592    0.078148
+  FP_Morgan1024_r2_675    0.020670               0.020670    0.098817
+               AC3D_67    0.019523               0.019523    0.118340
+           GETAWAY_271    0.017573               0.017573    0.135913
+           GETAWAY_141    0.016554               0.016554    0.152467
+     Pharm2D_Gobbi_112    0.014592               0.014592    0.167059
+FP_TopoTorsion1024_232    0.013942               0.013942    0.181002
+              AC2D_112    0.013915               0.013915    0.194917

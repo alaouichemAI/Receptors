@@ -1,0 +1,18 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: ET
+Family: tree
+Endpoint: pIC50
+Species: rattus_norvegicus
+Total Features: 91
+Top Features Count: 6
+Cumulative Importance: 0.1785
+================================================================================
+
+           feature  importance  importance_normalized  cumulative
+ RDKit2D_PEOE_VSA1    0.040495               0.040495    0.040495
+    RDKit2D_Kappa2    0.029351               0.029351    0.069846
+RDKit2D_PEOE_VSA12    0.029211               0.029211    0.099057
+          AC2D_170    0.029173               0.029173    0.128230
+Phys_Quadrupole_YY    0.025844               0.025844    0.154074
+  RDKit2D_SMR_VSA6    0.024428               0.024428    0.178502

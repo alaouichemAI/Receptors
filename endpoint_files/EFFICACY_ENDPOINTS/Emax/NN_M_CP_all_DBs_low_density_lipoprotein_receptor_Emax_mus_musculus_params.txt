@@ -1,0 +1,28 @@
+Endpoint: Unknown
+Samples: 42 | Features: 19
+Best Model: NeuralNetwork_3L_64U_relu
+
+Best Hyperparameters:
+----------------------------------------
+act: relu
+batch_size: 64
+corr_thr: None
+decay: 0.7715446391937388
+dropout: 0.41807891098788047
+lr: 0.00022793670269955608
+n_layers: 3
+na_thresh: 0.43501334282052223
+pca: 0.95
+scaler: standard
+units: 64
+var_thr: 0.0
+
+Baseline Metrics:
+mae: 29.1657
+rmse: 35.5564
+r2: -2.1263
+
+Final Metrics:
+mae: 23.4409
+rmse: 30.0428
+r2: -1.2319

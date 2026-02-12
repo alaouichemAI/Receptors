@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: LGBM
+Family: tree
+Endpoint: pIC50
+Species: bovine
+Total Features: 276
+Top Features Count: 1
+Cumulative Importance: 0.3873
+================================================================================
+
+        feature  importance  importance_normalized  cumulative
+FP_RDKit512_474         244               0.387302    0.387302

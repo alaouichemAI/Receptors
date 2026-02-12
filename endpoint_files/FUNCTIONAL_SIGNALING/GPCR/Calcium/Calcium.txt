@@ -1,0 +1,35 @@
+Endpoint: Calcium
+Main Category: FUNCTIONAL_SIGNALING
+Subcategory: GPCR
+Target Receptor: Low-density lipoprotein receptor
+Total Receptor Variants: 14
+Endpoint Variants: 6
+================================================================================
+
+RECEPTOR VARIANTS:
+--------------------------------------------------------------------------------
+LDLR
+ldlr
+LDLR Receptor
+LDLR receptor
+receptor LDLR
+Receptor LDLR
+low-density lipoprotein
+Low-density lipoprotein
+LOW-DENSITY LIPOPROTEIN
+Low-densitylipoproteinreceptor
+LOW-DENSITY LIPOPROTEIN RECEPTOR
+Low-density lipoprotein receptor
+low-density lipoprotein receptor
+Low-density-lipoprotein-receptor
+
+================================================================================
+
+ENDPOINT VARIANTS (Calcium):
+--------------------------------------------------------------------------------
+Ca2+
+[Ca2+]
+Ca2+ flux
+Calcium mobilization assay
+Intracellular Ca2+ rise
+Calcium flux assay

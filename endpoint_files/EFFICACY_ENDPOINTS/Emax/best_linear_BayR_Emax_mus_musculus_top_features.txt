@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: BayR
+Family: linear
+Endpoint: Emax
+Species: mus_musculus
+Total Features: 26
+Top Features Count: 1
+Cumulative Importance: 0.1462
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+   pca8    7.157923               0.146167    0.146167

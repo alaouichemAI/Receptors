@@ -1,0 +1,20 @@
+Model: CAT
+Estimator: CatBoostRegressor
+Family: tree
+Endpoint: pEC50
+Species: mus_musculus
+Best MAE: 0.318208
+Dataset: 50 samples, 92 features
+Target range: [4.8495, 7.8539]
+Trials completed: 21
+Trials pruned: 4
+Trials failed: 0
+Optimization time: 370.4s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+iterations: 350
+depth: 7
+learning_rate: 0.022260886767416162
+l2_leaf_reg: 5.636340686690178

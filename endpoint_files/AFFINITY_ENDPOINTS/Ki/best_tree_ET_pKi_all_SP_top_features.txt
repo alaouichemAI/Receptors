@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: ET
+Family: tree
+Endpoint: pKi
+Species: all_SP
+Total Features: 129
+Top Features Count: 1
+Cumulative Importance: 0.2879
+================================================================================
+
+    feature  importance  importance_normalized  cumulative
+FP_MACCS_66    0.287903               0.287903    0.287903

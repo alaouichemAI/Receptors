@@ -1,0 +1,15 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: MLP_Wide
+Family: nn
+Endpoint: pIC50
+Species: bovine
+Total Features: 99
+Top Features Count: 3
+Cumulative Importance: 0.1804
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+   PC_2    0.414336               0.110288    0.110288
+   PC_1    0.163291               0.043465    0.153753
+   PC_7    0.100008               0.026620    0.180372

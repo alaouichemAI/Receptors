@@ -1,0 +1,18 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: XGB
+Family: tree
+Endpoint: pIC50
+Species: all_SP
+Total Features: 644
+Top Features Count: 6
+Cumulative Importance: 0.1986
+================================================================================
+
+                 feature  importance  importance_normalized  cumulative
+   FP_Morgan1024_r2_1010    0.058605               0.058605    0.058605
+    FP_Morgan1024_r2_657    0.048703               0.048703    0.107307
+     FP_AtomPair1024_761    0.024072               0.024072    0.131380
+         FP_RDKit512_489    0.023261               0.023261    0.154641
+FP_MorganFeat1024_r2_825    0.022283               0.022283    0.176924
+    FP_Morgan1024_r2_886    0.021715               0.021715    0.198639

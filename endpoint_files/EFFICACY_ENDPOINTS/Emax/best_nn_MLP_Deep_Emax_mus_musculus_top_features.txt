@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: MLP_Deep
+Family: nn
+Endpoint: Emax
+Species: mus_musculus
+Total Features: 27
+Top Features Count: 1
+Cumulative Importance: 0.1852
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+   PC_1      1.0569               0.185216    0.185216

@@ -1,0 +1,17 @@
+Model: Ridge
+Estimator: Ridge
+Family: linear
+Endpoint: Emax
+Species: mus_musculus
+Best MAE: 14.955539
+Dataset: 42 samples, 26 features
+Target range: [0.0000, 100.0000]
+Trials completed: 22
+Trials pruned: 3
+Trials failed: 0
+Optimization time: 14.1s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+alpha: 12.231268291041767

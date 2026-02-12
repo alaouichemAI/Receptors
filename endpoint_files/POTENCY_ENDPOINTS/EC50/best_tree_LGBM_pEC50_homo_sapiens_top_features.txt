@@ -1,0 +1,16 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: LGBM
+Family: tree
+Endpoint: pEC50
+Species: homo_sapiens
+Total Features: 267
+Top Features Count: 4
+Cumulative Importance: 0.1678
+================================================================================
+
+                 feature  importance  importance_normalized  cumulative
+FP_MorganFeat1024_r2_397          25               0.058275    0.058275
+                AC2D_114          19               0.044289    0.102564
+                 AC3D_63          14               0.032634    0.135198
+               MORSE_219          14               0.032634    0.167832

@@ -1,0 +1,52 @@
+Endpoint: low_density_lipoprotein_receptor_pEC50_homo_sapiens
+Best Stage: full_cv
+Baseline MAE 0.6359 | RMSE 0.8912 | R² 0.3348
+Optimized MAE 0.6167 | RMSE 0.8691 | R² 0.3673
+ΔMAE +0.0191 | ΔRMSE +0.0221 | ΔR² +0.0326
+Required improvements met: False
+Feasibility met: False
+Final training MAE 0.1589 | RMSE 0.2347 | R² 0.9539
+
+Best Parameters:
+corrflt__max_features: 408
+corrflt__preselect_k: 2000
+corrflt__thresh: 0.98
+dropna__add_flag: True
+dropna__threshold: 0.45
+iqrclip__k: None
+minfrac__min_features: 32
+minfrac__min_fraction: 0.008
+rf__criterion: squared_error
+rf__max_depth: None
+rf__max_features: sqrt
+rf__max_samples: None
+rf__min_samples_leaf: 1
+rf__min_samples_split: 2
+rf__n_estimators: 180
+targetcorr__max_features: 272
+targetcorr__min_abs_corr: 0.03
+targetcorr__min_features: 32
+targetcorr__top_fraction: 0.12
+varflt__threshold: 0.0002
+
+Final Model Parameters:
+corrflt__max_features: 408
+corrflt__preselect_k: 2000
+corrflt__thresh: 0.98
+dropna__add_flag: True
+dropna__threshold: 0.45
+iqrclip__k: None
+minfrac__min_features: 32
+minfrac__min_fraction: 0.008
+rf__criterion: squared_error
+rf__max_depth: None
+rf__max_features: sqrt
+rf__max_samples: None
+rf__min_samples_leaf: 1
+rf__min_samples_split: 2
+rf__n_estimators: 720
+targetcorr__max_features: 272
+targetcorr__min_abs_corr: 0.03
+targetcorr__min_features: 32
+targetcorr__top_fraction: 0.12
+varflt__threshold: 0.0002

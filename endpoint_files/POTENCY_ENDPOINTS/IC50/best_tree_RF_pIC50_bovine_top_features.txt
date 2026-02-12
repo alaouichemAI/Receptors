@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: RF
+Family: tree
+Endpoint: pIC50
+Species: bovine
+Total Features: 276
+Top Features Count: 1
+Cumulative Importance: 0.3306
+================================================================================
+
+        feature  importance  importance_normalized  cumulative
+FP_RDKit512_474    0.330581               0.330581    0.330581

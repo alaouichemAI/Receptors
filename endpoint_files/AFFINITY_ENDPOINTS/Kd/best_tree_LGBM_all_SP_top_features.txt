@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: LGBM
+Family: tree
+Endpoint: all
+Species: SP
+Total Features: 128
+Top Features Count: 1
+Cumulative Importance: 0.4324
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+AC2D_98         179               0.432367    0.432367

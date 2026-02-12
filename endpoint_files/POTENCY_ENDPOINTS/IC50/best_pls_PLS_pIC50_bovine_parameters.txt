@@ -1,0 +1,17 @@
+Model: PLS
+Estimator: PLSRegression
+Family: pls
+Endpoint: pIC50
+Species: bovine
+Best MAE: 0.120332
+Dataset: 159 samples, 50 features
+Target range: [3.3724, 6.3724]
+Trials completed: 14
+Trials pruned: 11
+Trials failed: 0
+Optimization time: 49.0s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_components: 22

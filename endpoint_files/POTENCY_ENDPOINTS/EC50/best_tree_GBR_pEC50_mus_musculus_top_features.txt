@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: GBR
+Family: tree
+Endpoint: pEC50
+Species: mus_musculus
+Total Features: 92
+Top Features Count: 1
+Cumulative Importance: 0.3337
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+AC3D_48    0.333687               0.333687    0.333687

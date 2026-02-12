@@ -1,0 +1,21 @@
+Model: BayR
+Estimator: BayesianRidge
+Family: linear
+Endpoint: pKi
+Species: all_SP
+Best MAE: 0.916283
+Dataset: 72 samples, 14 features
+Target range: [4.1505, 8.8665]
+Trials completed: 13
+Trials pruned: 12
+Trials failed: 0
+Optimization time: 11.4s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+max_iter: 487
+alpha_1: 1.1711426667473574e-05
+alpha_2: 9.378059196306982e-05
+lambda_1: 2.6548135712277944e-05
+lambda_2: 1.1063726223873671e-07

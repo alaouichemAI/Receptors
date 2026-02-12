@@ -1,0 +1,14 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: Huber
+Family: linear
+Endpoint: all
+Species: SP
+Total Features: 32
+Top Features Count: 2
+Cumulative Importance: 0.1619
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+  pca14    0.337877               0.082790    0.082790
+  pca18    0.322762               0.079087    0.161877

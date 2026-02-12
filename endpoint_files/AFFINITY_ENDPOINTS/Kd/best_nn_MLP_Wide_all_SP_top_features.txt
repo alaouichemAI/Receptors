@@ -1,0 +1,21 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: MLP_Wide
+Family: nn
+Endpoint: all
+Species: SP
+Total Features: 1074
+Top Features Count: 9
+Cumulative Importance: 0.1955
+================================================================================
+
+             feature  importance  importance_normalized  cumulative
+           VSA_SMR_9    0.103500               0.049417    0.049417
+     Frag_fr_benzene    0.086067               0.041093    0.090510
+ FP_AtomPair1024_687    0.040222               0.019204    0.109714
+            AC2D_189    0.034094               0.016278    0.125993
+             AC2D_98    0.033713               0.016096    0.142089
+Frag_fr_allylic_oxid    0.029095               0.013892    0.155981
+            AC2D_131    0.028128               0.013430    0.169411
+            AC2D_160    0.027669               0.013211    0.182622
+            AC2D_122    0.026945               0.012865    0.195487

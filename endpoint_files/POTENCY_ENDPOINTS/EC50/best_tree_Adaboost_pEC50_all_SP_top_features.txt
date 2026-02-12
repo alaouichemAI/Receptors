@@ -1,0 +1,14 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: Adaboost
+Family: tree
+Endpoint: pEC50
+Species: all_SP
+Total Features: 186
+Top Features Count: 2
+Cumulative Importance: 0.1806
+================================================================================
+
+            feature  importance  importance_normalized  cumulative
+    FP_RDKit512_436    0.095935               0.095935    0.095935
+RDKit2D_EState_VSA4    0.084674               0.084674    0.180609

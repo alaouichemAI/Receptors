@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: GBR
+Family: tree
+Endpoint: all
+Species: SP
+Total Features: 128
+Top Features Count: 1
+Cumulative Importance: 0.2111
+================================================================================
+
+        feature  importance  importance_normalized  cumulative
+FP_RDKit512_307    0.211141               0.211141    0.211141

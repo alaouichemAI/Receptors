@@ -1,0 +1,28 @@
+Endpoint: pIC50
+Samples: 22 | Features: 12
+Best Model: NeuralNetwork_3L_435U_selu
+
+Best Hyperparameters:
+----------------------------------------
+act: selu
+batch_size: 64
+corr_thr: 0.95
+decay: 0.5543461042811879
+dropout: 0.12054418067523781
+lr: 0.00013208558194937605
+n_layers: 3
+na_thresh: 0.2642571921403655
+pca: 0.95
+scaler: standard
+units: 435
+var_thr: 1e-05
+
+Baseline Metrics:
+mae: 5.8491
+rmse: 9.7834
+r2: -240.5239
+
+Final Metrics:
+mae: 1.7253
+rmse: 2.0496
+r2: -9.6008

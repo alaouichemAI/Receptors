@@ -1,0 +1,21 @@
+Model: ET
+Estimator: ExtraTreesRegressor
+Family: tree
+Endpoint: pEC50
+Species: mus_musculus
+Best MAE: 0.322953
+Dataset: 50 samples, 92 features
+Target range: [4.8495, 7.8539]
+Trials completed: 25
+Trials pruned: 0
+Trials failed: 0
+Optimization time: 81.1s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_estimators: 500
+max_depth: 18
+min_samples_leaf: 2
+max_features: 0.3
+bootstrap: True

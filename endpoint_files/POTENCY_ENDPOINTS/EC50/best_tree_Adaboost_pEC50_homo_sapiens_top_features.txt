@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: Adaboost
+Family: tree
+Endpoint: pEC50
+Species: homo_sapiens
+Total Features: 267
+Top Features Count: 1
+Cumulative Importance: 0.2307
+================================================================================
+
+        feature  importance  importance_normalized  cumulative
+FP_RDKit512_377    0.230736               0.230736    0.230736

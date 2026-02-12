@@ -1,0 +1,23 @@
+Model: XGB
+Estimator: XGBRegressor
+Family: tree
+Endpoint: pEC50
+Species: homo_sapiens
+Best MAE: 0.493031
+Dataset: 136 samples, 267 features
+Target range: [4.4515, 9.9747]
+Trials completed: 24
+Trials pruned: 1
+Trials failed: 0
+Optimization time: 54.1s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_estimators: 400
+max_depth: 7
+learning_rate: 0.1993291554055193
+subsample: 0.9510642277196979
+colsample: 0.655099999396225
+reg_lambda: 0.284250365620672
+reg_alpha: 0.022696290753884726

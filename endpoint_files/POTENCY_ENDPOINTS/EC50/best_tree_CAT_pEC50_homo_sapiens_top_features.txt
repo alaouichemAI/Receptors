@@ -1,0 +1,20 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: CAT
+Family: tree
+Endpoint: pEC50
+Species: homo_sapiens
+Total Features: 267
+Top Features Count: 8
+Cumulative Importance: 0.1806
+================================================================================
+
+             feature  importance  importance_normalized  cumulative
+ RDKit2D_EState_VSA4    2.781003               0.027810    0.027810
+            AC2D_114    2.462808               0.024628    0.052438
+         GETAWAY_141    2.336440               0.023364    0.075803
+           MORSE_187    2.182649               0.021826    0.097629
+            AC2D_169    2.146062               0.021461    0.119090
+            AC2D_117    2.067461               0.020675    0.139764
+RDKit2D_BCUT2D_CHGLO    2.043042               0.020430    0.160195
+ RDKit2D_EState_VSA9    2.040265               0.020403    0.180597

@@ -1,0 +1,14 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: CAT
+Family: tree
+Endpoint: all
+Species: SP
+Total Features: 128
+Top Features Count: 2
+Cumulative Importance: 0.1575
+================================================================================
+
+        feature  importance  importance_normalized  cumulative
+    RDKit2D_SPS    8.405553               0.084056    0.084056
+Frag_fr_benzene    7.344651               0.073447    0.157502

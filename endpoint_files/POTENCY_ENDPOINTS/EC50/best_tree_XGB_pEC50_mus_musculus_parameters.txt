@@ -1,0 +1,23 @@
+Model: XGB
+Estimator: XGBRegressor
+Family: tree
+Endpoint: pEC50
+Species: mus_musculus
+Best MAE: 0.292666
+Dataset: 50 samples, 92 features
+Target range: [4.8495, 7.8539]
+Trials completed: 17
+Trials pruned: 8
+Trials failed: 0
+Optimization time: 25.2s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_estimators: 550
+max_depth: 3
+learning_rate: 0.06592952459030264
+subsample: 0.7523554634173429
+colsample: 0.8095839387020464
+reg_lambda: 0.9777307763661373
+reg_alpha: 1.1606159532098594

@@ -1,0 +1,19 @@
+Model: MLP_Small
+Estimator: MLPRegressor
+Family: nn
+Endpoint: pEC50
+Species: homo_sapiens
+Best MAE: 2.037833
+Dataset: 136 samples, 68 features
+Target range: [4.4515, 9.9747]
+Trials completed: 19
+Trials pruned: 6
+Trials failed: 0
+Optimization time: 42.2s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+activation: relu
+alpha: 0.00010637010698793509
+lr: 0.009961792711515862

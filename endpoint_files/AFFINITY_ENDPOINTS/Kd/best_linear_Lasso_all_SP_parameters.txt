@@ -1,0 +1,17 @@
+Model: Lasso
+Estimator: Lasso
+Family: linear
+Endpoint: all
+Species: SP
+Best MAE: 1.479521
+Dataset: 44 samples, 32 features
+Target range: [-0.5431, 9.5229]
+Trials completed: 19
+Trials pruned: 6
+Trials failed: 0
+Optimization time: 13.8s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+alpha: 0.29154431891537513

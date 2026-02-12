@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: Huber
+Family: linear
+Endpoint: Emax
+Species: mus_musculus
+Total Features: 26
+Top Features Count: 1
+Cumulative Importance: 0.1442
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+   pca8    7.026217               0.144185    0.144185

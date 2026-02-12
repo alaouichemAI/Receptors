@@ -1,0 +1,16 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: RF
+Family: tree
+Endpoint: pEC50
+Species: mus_musculus
+Total Features: 92
+Top Features Count: 4
+Cumulative Importance: 0.1796
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+AC3D_48    0.067539               0.067539    0.067539
+ RDF_35    0.038854               0.038854    0.106393
+AC3D_47    0.036735               0.036735    0.143128
+AC3D_78    0.036492               0.036492    0.179620

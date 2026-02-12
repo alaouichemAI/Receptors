@@ -1,0 +1,20 @@
+Model: CAT
+Estimator: CatBoostRegressor
+Family: tree
+Endpoint: homo
+Species: sapiens
+Best MAE: 0.763271
+Dataset: 44 samples, 93 features
+Target range: [-0.5431, 9.5229]
+Trials completed: 14
+Trials pruned: 11
+Trials failed: 0
+Optimization time: 180.5s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+iterations: 700
+depth: 5
+learning_rate: 0.017092709263623045
+l2_leaf_reg: 2.038396226137588
