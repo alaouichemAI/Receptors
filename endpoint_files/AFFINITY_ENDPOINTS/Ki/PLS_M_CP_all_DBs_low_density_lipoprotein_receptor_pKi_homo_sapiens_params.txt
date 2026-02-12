@@ -1,0 +1,17 @@
+Endpoint: pki
+Best Objective: 1.2533
+Dataset: 72 samples, 50 features
+
+Best Parameters:
+----------------------------------------
+clip_method: zscore
+corr_thresh: 0.95
+imputer: median
+n_components: 4
+na_flag: False
+na_thresh: 0.15050754618300807
+pls_scale: True
+scaler: robust
+skew_fix: none
+var_thresh: 1e-05
+z_lim: 4.483960514771639

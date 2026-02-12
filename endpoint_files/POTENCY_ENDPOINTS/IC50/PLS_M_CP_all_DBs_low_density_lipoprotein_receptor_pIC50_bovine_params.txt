@@ -1,0 +1,17 @@
+Endpoint: pic50
+Best Objective: 108076804799922232539217920.0000
+Dataset: 159 samples, 50 features
+
+Best Parameters:
+----------------------------------------
+clip_method: zscore
+corr_thresh: off
+imputer: constant
+n_components: 11
+na_flag: False
+na_thresh: 0.30425980163770977
+pls_scale: False
+scaler: standard
+skew_fix: log1p
+var_thresh: 0.0
+z_lim: 3.730885706864133

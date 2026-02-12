@@ -1,0 +1,19 @@
+Model: MLP_Medium
+Estimator: MLPRegressor
+Family: nn
+Endpoint: Emax
+Species: mus_musculus
+Best MAE: 13.684900
+Dataset: 42 samples, 27 features
+Target range: [0.0000, 100.0000]
+Trials completed: 23
+Trials pruned: 2
+Trials failed: 0
+Optimization time: 34.7s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+activation: relu
+alpha: 0.0001805762474963988
+lr: 0.0065299071817283335

@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: ET
+Family: tree
+Endpoint: pEC50
+Species: mus_musculus
+Total Features: 92
+Top Features Count: 1
+Cumulative Importance: 0.1217
+================================================================================
+
+               feature  importance  importance_normalized  cumulative
+FP_TopoTorsion1024_816    0.121733               0.121733    0.121733

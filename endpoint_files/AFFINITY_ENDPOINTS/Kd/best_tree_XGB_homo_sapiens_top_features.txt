@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: XGB
+Family: tree
+Endpoint: homo
+Species: sapiens
+Total Features: 93
+Top Features Count: 1
+Cumulative Importance: 0.2798
+================================================================================
+
+             feature  importance  importance_normalized  cumulative
+FP_Morgan1024_r2_233    0.279841               0.279841    0.279841

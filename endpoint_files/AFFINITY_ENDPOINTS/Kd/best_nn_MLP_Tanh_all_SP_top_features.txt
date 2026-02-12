@@ -1,0 +1,26 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: MLP_Tanh
+Family: nn
+Endpoint: all
+Species: SP
+Total Features: 1074
+Top Features Count: 14
+Cumulative Importance: 0.1940
+================================================================================
+
+             feature  importance  importance_normalized  cumulative
+          EState_Min    0.139468               0.057314    0.057314
+Frag_fr_allylic_oxid    0.056031               0.023026    0.080340
+           VSA_SMR_9    0.047210               0.019401    0.099740
+            AC2D_115    0.026357               0.010831    0.110572
+            AC2D_159    0.022104               0.009084    0.119655
+     FP_RDKit512_155    0.021828               0.008970    0.128625
+            AC2D_109    0.021666               0.008903    0.137529
+   QM_Charge_Max_Pos    0.021639               0.008892    0.146421
+       Frag_fr_ether    0.021512               0.008840    0.155261
+     Frag_fr_benzene    0.020590               0.008461    0.163723
+            AC2D_189    0.020307               0.008345    0.172068
+            AC2D_145    0.019773               0.008126    0.180193
+        FP_MACCS_144    0.017507               0.007195    0.187388
+            AC2D_110    0.016088               0.006611    0.193999

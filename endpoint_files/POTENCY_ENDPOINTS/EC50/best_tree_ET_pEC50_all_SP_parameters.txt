@@ -1,0 +1,21 @@
+Model: ET
+Estimator: ExtraTreesRegressor
+Family: tree
+Endpoint: pEC50
+Species: all_SP
+Best MAE: 0.557088
+Dataset: 159 samples, 186 features
+Target range: [4.4515, 9.9747]
+Trials completed: 24
+Trials pruned: 1
+Trials failed: 0
+Optimization time: 74.2s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_estimators: 350
+max_depth: 19
+min_samples_leaf: 1
+max_features: 0.5
+bootstrap: False

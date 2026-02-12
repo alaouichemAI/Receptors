@@ -1,0 +1,20 @@
+Model: CAT
+Estimator: CatBoostRegressor
+Family: tree
+Endpoint: pIC50
+Species: rattus_norvegicus
+Best MAE: 0.255460
+Dataset: 22 samples, 91 features
+Target range: [5.8495, 7.7447]
+Trials completed: 24
+Trials pruned: 1
+Trials failed: 0
+Optimization time: 5569.8s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+iterations: 800
+depth: 5
+learning_rate: 0.12404066871939631
+l2_leaf_reg: 2.5828218654245267

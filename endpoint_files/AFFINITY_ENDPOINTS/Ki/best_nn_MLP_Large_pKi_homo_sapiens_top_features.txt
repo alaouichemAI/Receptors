@@ -1,0 +1,26 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: MLP_Large
+Family: nn
+Endpoint: pKi
+Species: homo_sapiens
+Total Features: 740
+Top Features Count: 14
+Cumulative Importance: 0.1942
+================================================================================
+
+               feature  importance  importance_normalized  cumulative
+    RDKit2D_SlogP_VSA6    0.055536               0.052153    0.052153
+      RDKit2D_SMR_VSA7    0.022289               0.020931    0.073084
+      RDKit2D_fr_ether    0.015023               0.014108    0.087192
+        Tautomer_Score    0.014186               0.013322    0.100514
+FP_TopoTorsion1024_637    0.013075               0.012279    0.112793
+       RDKit2D_fr_Ar_N    0.011694               0.010982    0.123775
+   FP_AtomPair1024_354    0.010931               0.010265    0.134040
+    RDKit2D_PEOE_VSA14    0.010887               0.010224    0.144264
+  FP_Morgan1024_r2_816    0.009919               0.009315    0.153579
+              AC2D_113    0.009634               0.009047    0.162626
+              AC2D_169    0.008841               0.008302    0.170928
+        Graph_Diameter    0.008378               0.007868    0.178796
+     RDKit2D_PEOE_VSA9    0.008256               0.007753    0.186549
+   FP_AtomPair1024_443    0.008132               0.007637    0.194186

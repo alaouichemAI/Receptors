@@ -1,0 +1,18 @@
+Model: Huber
+Estimator: HuberRegressor
+Family: linear
+Endpoint: pIC50
+Species: all_SP
+Best MAE: 0.691726
+Dataset: 751 samples, 2146 features
+Target range: [3.3724, 11.6990]
+Trials completed: 7
+Trials pruned: 18
+Trials failed: 0
+Optimization time: 562.5s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+epsilon: 1.240416776398193
+alpha: 0.0004207053950287938

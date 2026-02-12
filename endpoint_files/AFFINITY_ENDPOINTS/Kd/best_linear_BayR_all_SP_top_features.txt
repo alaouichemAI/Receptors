@@ -1,0 +1,14 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: BayR
+Family: linear
+Endpoint: all
+Species: SP
+Total Features: 32
+Top Features Count: 2
+Cumulative Importance: 0.1728
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+  pca14    0.327502               0.089034    0.089034
+  pca18    0.308304               0.083815    0.172849

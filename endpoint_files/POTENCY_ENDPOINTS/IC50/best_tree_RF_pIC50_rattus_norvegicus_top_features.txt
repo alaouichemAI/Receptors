@@ -1,0 +1,15 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: RF
+Family: tree
+Endpoint: pIC50
+Species: rattus_norvegicus
+Total Features: 91
+Top Features Count: 3
+Cumulative Importance: 0.1919
+================================================================================
+
+           feature  importance  importance_normalized  cumulative
+Phys_Quadrupole_YY    0.080545               0.080545    0.080545
+Phys_Quadrupole_XX    0.063469               0.063469    0.144014
+       GETAWAY_170    0.047837               0.047837    0.191851

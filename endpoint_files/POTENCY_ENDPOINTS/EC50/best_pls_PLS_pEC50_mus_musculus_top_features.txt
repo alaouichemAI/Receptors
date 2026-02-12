@@ -1,0 +1,14 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: PLS
+Family: pls
+Endpoint: pEC50
+Species: mus_musculus
+Total Features: 38
+Top Features Count: 2
+Cumulative Importance: 0.1805
+================================================================================
+
+             feature  importance  importance_normalized  cumulative
+              RDF_34    0.315057               0.100911    0.100911
+FP_Morgan1024_r2_914    0.248382               0.079555    0.180466

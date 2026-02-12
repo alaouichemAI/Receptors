@@ -1,0 +1,26 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: MLP_Medium
+Family: nn
+Endpoint: all
+Species: SP
+Total Features: 1074
+Top Features Count: 14
+Cumulative Importance: 0.1953
+================================================================================
+
+             feature  importance  importance_normalized  cumulative
+          EState_Min    0.139598               0.058017    0.058017
+Frag_fr_allylic_oxid    0.056347               0.023418    0.081435
+           VSA_SMR_9    0.045897               0.019075    0.100511
+            AC2D_115    0.026282               0.010923    0.111433
+     FP_RDKit512_155    0.022070               0.009172    0.120606
+       Frag_fr_ether    0.021826               0.009071    0.129677
+            AC2D_159    0.021700               0.009019    0.138695
+   QM_Charge_Max_Pos    0.021674               0.009008    0.147703
+            AC2D_109    0.021599               0.008977    0.156680
+            AC2D_189    0.020389               0.008474    0.165154
+     Frag_fr_benzene    0.019773               0.008218    0.173371
+            AC2D_145    0.019493               0.008101    0.181473
+        FP_MACCS_144    0.017544               0.007291    0.188764
+              AC2D_0    0.015726               0.006536    0.195300

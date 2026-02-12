@@ -1,0 +1,15 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: CAT
+Family: tree
+Endpoint: Emax
+Species: mus_musculus
+Total Features: 107
+Top Features Count: 3
+Cumulative Importance: 0.1644
+================================================================================
+
+            feature  importance  importance_normalized  cumulative
+         GETAWAY_83    5.717069               0.057171    0.057171
+RDKit2D_VSA_EState5    5.454918               0.054549    0.111720
+       USR_ctd_Skew    5.272930               0.052729    0.164449

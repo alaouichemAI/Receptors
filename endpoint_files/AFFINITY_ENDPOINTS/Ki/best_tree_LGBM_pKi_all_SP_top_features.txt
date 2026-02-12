@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: LGBM
+Family: tree
+Endpoint: pKi
+Species: all_SP
+Total Features: 129
+Top Features Count: 1
+Cumulative Importance: 0.4775
+================================================================================
+
+            feature  importance  importance_normalized  cumulative
+RDKit2D_VSA_EState2         159               0.477477    0.477477

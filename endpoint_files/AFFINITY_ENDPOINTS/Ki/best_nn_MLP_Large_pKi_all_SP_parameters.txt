@@ -1,0 +1,19 @@
+Model: MLP_Large
+Estimator: MLPRegressor
+Family: nn
+Endpoint: pKi
+Species: all_SP
+Best MAE: 0.953719
+Dataset: 72 samples, 626 features
+Target range: [4.1505, 8.8665]
+Trials completed: 16
+Trials pruned: 9
+Trials failed: 0
+Optimization time: 80.8s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+activation: tanh
+alpha: 0.0001781450769024047
+lr: 0.0017311542042698074

@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: MLP_Small
+Family: nn
+Endpoint: pIC50
+Species: rattus_norvegicus
+Total Features: 17
+Top Features Count: 1
+Cumulative Importance: 0.1345
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+   PC_5    0.102862               0.134537    0.134537

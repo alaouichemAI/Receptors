@@ -1,0 +1,17 @@
+Endpoint: pec50
+Best Objective: 0.4970
+Dataset: 50 samples, 50 features
+
+Best Parameters:
+----------------------------------------
+clip_method: iqr
+corr_thresh: 0.98
+imputer: constant
+iqr_lim: 3.622083589015117
+n_components: 7
+na_flag: False
+na_thresh: 0.16402369618392673
+pls_scale: True
+scaler: standard
+skew_fix: yeo-johnson
+var_thresh: 0.0

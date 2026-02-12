@@ -1,0 +1,16 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: ET
+Family: tree
+Endpoint: Emax
+Species: mus_musculus
+Total Features: 107
+Top Features Count: 4
+Cumulative Importance: 0.1813
+================================================================================
+
+               feature  importance  importance_normalized  cumulative
+   FP_AtomPair1024_366    0.054283               0.054283    0.054283
+FP_TopoTorsion1024_292    0.047407               0.047407    0.101690
+          FP_MACCS_111    0.041752               0.041752    0.143443
+    FP_AtomPair1024_72    0.037874               0.037874    0.181316

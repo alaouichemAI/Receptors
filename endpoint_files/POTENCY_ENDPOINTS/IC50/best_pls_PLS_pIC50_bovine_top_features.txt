@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: PLS
+Family: pls
+Endpoint: pIC50
+Species: bovine
+Total Features: 50
+Top Features Count: 1
+Cumulative Importance: 0.2953
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+ Feat_1    1.180018               0.295265    0.295265

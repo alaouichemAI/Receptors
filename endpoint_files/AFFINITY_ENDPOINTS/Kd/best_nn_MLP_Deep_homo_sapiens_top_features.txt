@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: MLP_Deep
+Family: nn
+Endpoint: homo
+Species: sapiens
+Total Features: 17
+Top Features Count: 1
+Cumulative Importance: 0.2484
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+   PC_1    2.071475               0.248351    0.248351

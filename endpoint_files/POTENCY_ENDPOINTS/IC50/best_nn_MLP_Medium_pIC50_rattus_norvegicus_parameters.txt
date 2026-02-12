@@ -1,0 +1,19 @@
+Model: MLP_Medium
+Estimator: MLPRegressor
+Family: nn
+Endpoint: pIC50
+Species: rattus_norvegicus
+Best MAE: 2.754297
+Dataset: 22 samples, 17 features
+Target range: [5.8495, 7.7447]
+Trials completed: 23
+Trials pruned: 2
+Trials failed: 0
+Optimization time: 71.7s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+activation: relu
+alpha: 0.00010967183816321436
+lr: 0.009961792711515862

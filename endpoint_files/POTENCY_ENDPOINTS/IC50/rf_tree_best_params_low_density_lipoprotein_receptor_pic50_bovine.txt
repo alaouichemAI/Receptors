@@ -1,0 +1,52 @@
+Endpoint: low_density_lipoprotein_receptor_pIC50_bovine
+Best Stage: full_cv
+Baseline MAE 0.1555 | RMSE 0.2931 | R² 0.9515
+Optimized MAE 0.1123 | RMSE 0.2742 | R² 0.9576
+ΔMAE +0.0432 | ΔRMSE +0.0190 | ΔR² +0.0061
+Required improvements met: False
+Feasibility met: True
+Final training MAE 0.0251 | RMSE 0.0799 | R² 0.9964
+
+Best Parameters:
+corrflt__max_features: 477
+corrflt__preselect_k: 2000
+corrflt__thresh: 0.98
+dropna__add_flag: True
+dropna__threshold: 0.45
+iqrclip__k: None
+minfrac__min_features: 32
+minfrac__min_fraction: 0.008
+rf__criterion: absolute_error
+rf__max_depth: 22
+rf__max_features: 0.3
+rf__max_samples: None
+rf__min_samples_leaf: 1
+rf__min_samples_split: 4
+rf__n_estimators: 180
+targetcorr__max_features: 318
+targetcorr__min_abs_corr: 0.03
+targetcorr__min_features: 32
+targetcorr__top_fraction: 0.12
+varflt__threshold: 0.0002
+
+Final Model Parameters:
+corrflt__max_features: 477
+corrflt__preselect_k: 2000
+corrflt__thresh: 0.98
+dropna__add_flag: True
+dropna__threshold: 0.45
+iqrclip__k: None
+minfrac__min_features: 32
+minfrac__min_fraction: 0.008
+rf__criterion: absolute_error
+rf__max_depth: 22
+rf__max_features: 0.3
+rf__max_samples: None
+rf__min_samples_leaf: 1
+rf__min_samples_split: 4
+rf__n_estimators: 720
+targetcorr__max_features: 318
+targetcorr__min_abs_corr: 0.03
+targetcorr__min_features: 32
+targetcorr__top_fraction: 0.12
+varflt__threshold: 0.0002

@@ -1,0 +1,29 @@
+Endpoint: pec50
+Samples: 136 | Features: 956
+Best Model: huber
+
+Best Hyperparameters:
+----------------------------------------
+clip_method: iqr
+corr_thresh: off
+huber_alpha: 0.022365118531737116
+huber_epsilon: 1.3074454324917442
+imputer: median
+iqr_limit: 2.415756813472734
+model_type: huber
+na_flag: True
+na_thresh: 0.15536552123445932
+pca: 0.99
+scaler: none
+skew_fix: quantile
+var_thresh: 0.0001
+
+Baseline Metrics:
+mae: 0.6749
+rmse: 1.2970
+r2: -2.5233
+
+Final Metrics:
+mae: 0.4872
+rmse: 0.6757
+r2: 0.4904

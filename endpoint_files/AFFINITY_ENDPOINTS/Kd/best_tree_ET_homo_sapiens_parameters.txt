@@ -1,0 +1,21 @@
+Model: ET
+Estimator: ExtraTreesRegressor
+Family: tree
+Endpoint: homo
+Species: sapiens
+Best MAE: 0.890212
+Dataset: 44 samples, 93 features
+Target range: [-0.5431, 9.5229]
+Trials completed: 20
+Trials pruned: 5
+Trials failed: 0
+Optimization time: 53.1s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_estimators: 350
+max_depth: 19
+min_samples_leaf: 1
+max_features: 0.5
+bootstrap: False

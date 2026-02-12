@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: MLP_Wide
+Family: nn
+Endpoint: pEC50
+Species: homo_sapiens
+Total Features: 68
+Top Features Count: 1
+Cumulative Importance: 0.2080
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+   PC_2     1.28409               0.208006    0.208006

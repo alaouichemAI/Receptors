@@ -1,0 +1,18 @@
+Model: ENet
+Estimator: ElasticNet
+Family: linear
+Endpoint: Emax
+Species: mus_musculus
+Best MAE: 14.983758
+Dataset: 42 samples, 26 features
+Target range: [0.0000, 100.0000]
+Trials completed: 25
+Trials pruned: 0
+Trials failed: 0
+Optimization time: 14.7s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+alpha: 0.433413587921035
+l1_ratio: 0.1846789178730474

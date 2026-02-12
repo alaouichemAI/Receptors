@@ -1,0 +1,28 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: MLP_Deep
+Family: nn
+Endpoint: pKi
+Species: all_SP
+Total Features: 626
+Top Features Count: 16
+Cumulative Importance: 0.1971
+================================================================================
+
+                        feature  importance  importance_normalized  cumulative
+           RDKit2D_BCUT2D_MRLOW    0.035864               0.030028    0.030028
+               RDKit2D_fr_ether    0.033104               0.027718    0.057746
+               RDKit2D_SMR_VSA7    0.022763               0.019059    0.076805
+             RDKit2D_PEOE_VSA14    0.014879               0.012458    0.089263
+       RDKit2D_NumAromaticRings    0.013005               0.010889    0.100152
+           FP_Morgan1024_r2_816    0.012321               0.010317    0.110469
+                 Tautomer_Score    0.012027               0.010070    0.120539
+           RDKit2D_EState_VSA11    0.011826               0.009902    0.130441
+RDKit2D_NumAromaticHeterocycles    0.011780               0.009863    0.140304
+                        AC2D_53    0.010037               0.008404    0.148708
+                        AC2D_90    0.009807               0.008212    0.156920
+            FP_AtomPair1024_443    0.009739               0.008155    0.165074
+                       AC2D_101    0.009633               0.008065    0.173140
+         FP_TopoTorsion1024_637    0.009614               0.008049    0.181189
+           RDKit2D_BCUT2D_CHGHI    0.009564               0.008008    0.189197
+                       AC2D_148    0.009497               0.007952    0.197149

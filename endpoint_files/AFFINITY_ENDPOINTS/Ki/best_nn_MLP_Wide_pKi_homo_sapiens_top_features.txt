@@ -1,0 +1,36 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: MLP_Wide
+Family: nn
+Endpoint: pKi
+Species: homo_sapiens
+Total Features: 740
+Top Features Count: 24
+Cumulative Importance: 0.1978
+================================================================================
+
+                        feature  importance  importance_normalized  cumulative
+               RDKit2D_fr_ether    0.020896               0.017664    0.017664
+             RDKit2D_SlogP_VSA6    0.017225               0.014561    0.032225
+                RDKit2D_fr_Ar_N    0.012743               0.010772    0.042998
+                        AC2D_15    0.011180               0.009451    0.052448
+             RDKit2D_SlogP_VSA8    0.010975               0.009278    0.061726
+                        AC2D_90    0.010570               0.008935    0.070662
+         FP_TopoTorsion1024_637    0.010506               0.008882    0.079543
+                        AC2D_53    0.010500               0.008877    0.088420
+           FP_Morgan1024_r2_816    0.010487               0.008866    0.097286
+                 Tautomer_Score    0.010129               0.008563    0.105849
+RDKit2D_NumAromaticHeterocycles    0.009970               0.008428    0.114277
+           RDKit2D_BCUT2D_MRLOW    0.009861               0.008337    0.122613
+            FP_AtomPair1024_354    0.009272               0.007838    0.130451
+           RDKit2D_EState_VSA11    0.008767               0.007411    0.137863
+                       AC2D_172    0.007804               0.006597    0.144460
+            RDKit2D_fr_bicyclic    0.007781               0.006578    0.151037
+            FP_AtomPair1024_331    0.007298               0.006170    0.157207
+              Pharm2D_Gobbi_136    0.007203               0.006089    0.163296
+                       AC2D_102    0.007060               0.005969    0.169265
+            RDKit2D_VSA_EState4    0.006852               0.005792    0.175057
+                       AC2D_103    0.006825               0.005770    0.180827
+                  RDKit2D_Chi2n    0.006778               0.005730    0.186557
+           RDKit2D_BCUT2D_CHGHI    0.006646               0.005618    0.192175
+            FP_AtomPair1024_607    0.006615               0.005592    0.197768

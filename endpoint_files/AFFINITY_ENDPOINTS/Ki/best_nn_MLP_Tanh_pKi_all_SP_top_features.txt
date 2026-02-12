@@ -1,0 +1,22 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: MLP_Tanh
+Family: nn
+Endpoint: pKi
+Species: all_SP
+Total Features: 626
+Top Features Count: 10
+Cumulative Importance: 0.1981
+================================================================================
+
+                        feature  importance  importance_normalized  cumulative
+               RDKit2D_SMR_VSA7    0.090599               0.035405    0.035405
+          Graph_Avg_Path_Length    0.063733               0.024906    0.060312
+               RDKit2D_fr_ether    0.061980               0.024221    0.084533
+                       AC2D_148    0.048439               0.018929    0.103462
+             RDKit2D_PEOE_VSA14    0.046616               0.018217    0.121679
+           RDKit2D_BCUT2D_MRLOW    0.044620               0.017437    0.139117
+                       AC2D_150    0.042373               0.016559    0.155675
+       RDKit2D_NumAromaticRings    0.038026               0.014860    0.170536
+RDKit2D_NumAromaticHeterocycles    0.037559               0.014678    0.185213
+             RDKit2D_SlogP_VSA8    0.032941               0.012873    0.198086

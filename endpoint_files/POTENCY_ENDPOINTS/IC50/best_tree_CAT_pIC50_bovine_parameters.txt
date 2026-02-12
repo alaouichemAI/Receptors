@@ -1,0 +1,20 @@
+Model: CAT
+Estimator: CatBoostRegressor
+Family: tree
+Endpoint: pIC50
+Species: bovine
+Best MAE: 0.168423
+Dataset: 159 samples, 276 features
+Target range: [3.3724, 6.3724]
+Trials completed: 24
+Trials pruned: 1
+Trials failed: 0
+Optimization time: 2390.8s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+iterations: 450
+depth: 4
+learning_rate: 0.03969782292725318
+l2_leaf_reg: 5.024058096720914

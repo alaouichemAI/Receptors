@@ -1,0 +1,15 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: RF
+Family: tree
+Endpoint: all
+Species: SP
+Total Features: 128
+Top Features Count: 3
+Cumulative Importance: 0.1669
+================================================================================
+
+        feature  importance  importance_normalized  cumulative
+Frag_fr_benzene    0.066642               0.066642    0.066642
+ Tautomer_Score    0.054727               0.054727    0.121369
+        AC2D_98    0.045557               0.045557    0.166927

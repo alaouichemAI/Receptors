@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: CAT
+Family: tree
+Endpoint: pIC50
+Species: bovine
+Total Features: 276
+Top Features Count: 1
+Cumulative Importance: 0.1850
+================================================================================
+
+            feature  importance  importance_normalized  cumulative
+FP_AtomPair1024_560   18.500532               0.185005    0.185005

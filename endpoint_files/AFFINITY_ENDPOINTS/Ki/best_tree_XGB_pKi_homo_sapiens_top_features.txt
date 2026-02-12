@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: XGB
+Family: tree
+Endpoint: pKi
+Species: homo_sapiens
+Total Features: 129
+Top Features Count: 1
+Cumulative Importance: 0.3068
+================================================================================
+
+    feature  importance  importance_normalized  cumulative
+FP_MACCS_66    0.306836               0.306836    0.306836

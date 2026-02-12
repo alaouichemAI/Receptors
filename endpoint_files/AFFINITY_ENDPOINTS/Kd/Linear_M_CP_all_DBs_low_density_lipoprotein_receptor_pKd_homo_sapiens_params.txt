@@ -1,0 +1,29 @@
+Endpoint: pkd
+Samples: 44 | Features: 660
+Best Model: huber
+
+Best Hyperparameters:
+----------------------------------------
+clip_method: iqr
+corr_thresh: 0.9
+huber_alpha: 7.609000065260333
+huber_epsilon: 1.1292438038088803
+imputer: constant
+iqr_limit: 1.9404557380579301
+model_type: huber
+na_flag: True
+na_thresh: 0.29225143656995356
+pca: 0.95
+scaler: robust
+skew_fix: none
+var_thresh: 0.001
+
+Baseline Metrics:
+mae: 0.9218
+rmse: 1.1652
+r2: 0.5101
+
+Final Metrics:
+mae: 0.7278
+rmse: 0.9758
+r2: 0.7216

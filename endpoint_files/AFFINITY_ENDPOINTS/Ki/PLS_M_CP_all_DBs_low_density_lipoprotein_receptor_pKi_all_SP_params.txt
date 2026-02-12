@@ -1,0 +1,16 @@
+Endpoint: pki
+Best Objective: 0.6196
+Dataset: 72 samples, 50 features
+
+Best Parameters:
+----------------------------------------
+clip_method: none
+corr_thresh: off
+imputer: median
+n_components: 2
+na_flag: False
+na_thresh: 0.27311006221642736
+pls_scale: True
+scaler: standard
+skew_fix: none
+var_thresh: 0.0001

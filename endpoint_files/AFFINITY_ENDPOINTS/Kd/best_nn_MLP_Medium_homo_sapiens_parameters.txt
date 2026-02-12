@@ -1,0 +1,19 @@
+Model: MLP_Medium
+Estimator: MLPRegressor
+Family: nn
+Endpoint: homo
+Species: sapiens
+Best MAE: 1.790232
+Dataset: 44 samples, 17 features
+Target range: [-0.5431, 9.5229]
+Trials completed: 23
+Trials pruned: 2
+Trials failed: 0
+Optimization time: 42.7s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+activation: relu
+alpha: 0.0003099246938221804
+lr: 0.0006813863685751047

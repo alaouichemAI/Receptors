@@ -1,0 +1,18 @@
+Model: MLP_Tanh
+Estimator: MLPRegressor
+Family: nn
+Endpoint: pEC50
+Species: all_SP
+Best MAE: 5.761374
+Dataset: 159 samples, 50 features
+Target range: [4.4515, 9.9747]
+Trials completed: 24
+Trials pruned: 1
+Trials failed: 0
+Optimization time: 76.4s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+alpha: 0.0091526136847666
+lr: 0.0018036184492692113

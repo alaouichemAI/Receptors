@@ -1,0 +1,21 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: MLP_Small
+Family: nn
+Endpoint: pKi
+Species: all_SP
+Total Features: 626
+Top Features Count: 9
+Cumulative Importance: 0.1984
+================================================================================
+
+                        feature  importance  importance_normalized  cumulative
+               RDKit2D_SMR_VSA7    0.035692               0.037536    0.037536
+RDKit2D_NumAromaticHeterocycles    0.031904               0.033552    0.071088
+               RDKit2D_fr_ether    0.027496               0.028916    0.100004
+               RDKit2D_SMR_VSA3    0.022164               0.023309    0.123313
+             RDKit2D_SlogP_VSA8    0.019040               0.020023    0.143336
+                       AC2D_113    0.015512               0.016313    0.159649
+                       AC2D_148    0.012447               0.013090    0.172740
+          Graph_Avg_Path_Length    0.012260               0.012894    0.185633
+                   FP_MACCS_126    0.012148               0.012775    0.198409

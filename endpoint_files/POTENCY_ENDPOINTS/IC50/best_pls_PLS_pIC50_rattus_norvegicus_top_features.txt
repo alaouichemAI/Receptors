@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: PLS
+Family: pls
+Endpoint: pIC50
+Species: rattus_norvegicus
+Total Features: 27
+Top Features Count: 1
+Cumulative Importance: 0.1638
+================================================================================
+
+         feature  importance  importance_normalized  cumulative
+RDKit2D_fr_Al_OH    0.280928               0.163762    0.163762

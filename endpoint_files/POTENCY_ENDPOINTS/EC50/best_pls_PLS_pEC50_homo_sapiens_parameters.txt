@@ -1,0 +1,17 @@
+Model: PLS
+Estimator: PLSRegression
+Family: pls
+Endpoint: pEC50
+Species: homo_sapiens
+Best MAE: 0.582384
+Dataset: 136 samples, 38 features
+Target range: [4.4515, 9.9747]
+Trials completed: 14
+Trials pruned: 11
+Trials failed: 0
+Optimization time: 56.4s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_components: 2

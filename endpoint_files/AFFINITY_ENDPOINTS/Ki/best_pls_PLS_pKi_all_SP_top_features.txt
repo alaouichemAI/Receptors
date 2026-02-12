@@ -1,0 +1,15 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: PLS
+Family: pls
+Endpoint: pKi
+Species: all_SP
+Total Features: 48
+Top Features Count: 3
+Cumulative Importance: 0.1975
+================================================================================
+
+               feature  importance  importance_normalized  cumulative
+RDKit2D_BCUT2D_LOGPLOW    0.139710               0.067810    0.067810
+   FP_AtomPair1024_899    0.137142               0.066564    0.134374
+  RDKit2D_BCUT2D_CHGLO    0.129969               0.063083    0.197457

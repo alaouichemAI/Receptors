@@ -1,0 +1,16 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: LGBM
+Family: tree
+Endpoint: pEC50
+Species: all_SP
+Total Features: 186
+Top Features Count: 4
+Cumulative Importance: 0.1927
+================================================================================
+
+            feature  importance  importance_normalized  cumulative
+           AC2D_186         182               0.063659    0.063659
+            AC2D_43         136               0.047569    0.111228
+RDKit2D_EState_VSA4         126               0.044071    0.155299
+RDKit2D_VSA_EState1         107               0.037426    0.192725

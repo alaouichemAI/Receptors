@@ -1,0 +1,17 @@
+Endpoint: pic50
+Best Objective: 1.0198
+Dataset: 751 samples, 190 features
+
+Best Parameters:
+----------------------------------------
+clip_method: iqr
+corr_thresh: 0.98
+imputer: mean
+iqr_lim: 3.6029305462222228
+n_components: 3
+na_flag: True
+na_thresh: 0.12904696428937223
+pls_scale: False
+scaler: robust
+skew_fix: log1p
+var_thresh: 0.0001

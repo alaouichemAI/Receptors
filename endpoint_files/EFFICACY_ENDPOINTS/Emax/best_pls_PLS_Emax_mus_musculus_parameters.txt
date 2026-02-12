@@ -1,0 +1,17 @@
+Model: PLS
+Estimator: PLSRegression
+Family: pls
+Endpoint: Emax
+Species: mus_musculus
+Best MAE: 13.024150
+Dataset: 42 samples, 46 features
+Target range: [0.0000, 100.0000]
+Trials completed: 15
+Trials pruned: 10
+Trials failed: 0
+Optimization time: 57.6s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_components: 2

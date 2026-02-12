@@ -1,0 +1,18 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: CAT
+Family: tree
+Endpoint: pEC50
+Species: all_SP
+Total Features: 186
+Top Features Count: 6
+Cumulative Importance: 0.1853
+================================================================================
+
+            feature  importance  importance_normalized  cumulative
+ RDKit2D_PEOE_VSA11    5.127131               0.051271    0.051271
+RDKit2D_EState_VSA9    3.096017               0.030960    0.082231
+           AC2D_186    2.837827               0.028378    0.110610
+            AC3D_64    2.720600               0.027206    0.137816
+         GETAWAY_98    2.544045               0.025440    0.163256
+           AC2D_117    2.203543               0.022035    0.185292

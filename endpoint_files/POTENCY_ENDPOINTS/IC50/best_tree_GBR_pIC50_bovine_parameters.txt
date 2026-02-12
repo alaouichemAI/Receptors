@@ -1,0 +1,21 @@
+Model: GBR
+Estimator: GradientBoostingRegressor
+Family: tree
+Endpoint: pIC50
+Species: bovine
+Best MAE: 0.055498
+Dataset: 159 samples, 276 features
+Target range: [3.3724, 6.3724]
+Trials completed: 18
+Trials pruned: 7
+Trials failed: 0
+Optimization time: 462.7s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_estimators: 250
+learning_rate: 0.03486835198204207
+max_depth: 4
+subsample: 0.9984479260335551
+min_samples_leaf: 1

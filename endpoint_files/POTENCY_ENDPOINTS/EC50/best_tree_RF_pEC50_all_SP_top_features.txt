@@ -1,0 +1,15 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: RF
+Family: tree
+Endpoint: pEC50
+Species: all_SP
+Total Features: 186
+Top Features Count: 3
+Cumulative Importance: 0.1984
+================================================================================
+
+            feature  importance  importance_normalized  cumulative
+           AC2D_186    0.070152               0.070152    0.070152
+RDKit2D_EState_VSA4    0.068003               0.068003    0.138156
+        GETAWAY_259    0.060198               0.060198    0.198353

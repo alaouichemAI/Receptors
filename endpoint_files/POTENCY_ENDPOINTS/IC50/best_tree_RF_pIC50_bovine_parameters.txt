@@ -1,0 +1,20 @@
+Model: RF
+Estimator: RandomForestRegressor
+Family: tree
+Endpoint: pIC50
+Species: bovine
+Best MAE: 0.126629
+Dataset: 159 samples, 276 features
+Target range: [3.3724, 6.3724]
+Trials completed: 24
+Trials pruned: 1
+Trials failed: 0
+Optimization time: 287.6s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_estimators: 100
+max_depth: 8
+min_samples_leaf: 1
+max_features: 0.5

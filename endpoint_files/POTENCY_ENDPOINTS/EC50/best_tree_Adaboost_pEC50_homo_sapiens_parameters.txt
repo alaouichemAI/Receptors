@@ -1,0 +1,19 @@
+Model: Adaboost
+Estimator: AdaBoostRegressor
+Family: tree
+Endpoint: pEC50
+Species: homo_sapiens
+Best MAE: 0.549106
+Dataset: 136 samples, 267 features
+Target range: [4.4515, 9.9747]
+Trials completed: 25
+Trials pruned: 0
+Trials failed: 0
+Optimization time: 82.7s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_estimators: 200
+learning_rate: 0.01607123851203988
+loss: square

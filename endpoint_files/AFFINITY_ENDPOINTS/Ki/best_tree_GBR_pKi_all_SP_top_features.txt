@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: GBR
+Family: tree
+Endpoint: pKi
+Species: all_SP
+Total Features: 129
+Top Features Count: 1
+Cumulative Importance: 0.2639
+================================================================================
+
+             feature  importance  importance_normalized  cumulative
+RDKit2D_BCUT2D_CHGHI     0.26393                0.26393     0.26393

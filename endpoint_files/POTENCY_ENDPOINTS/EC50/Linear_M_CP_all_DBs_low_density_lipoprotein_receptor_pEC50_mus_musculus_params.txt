@@ -1,0 +1,28 @@
+Endpoint: pec50
+Samples: 50 | Features: 661
+Best Model: ridge
+
+Best Hyperparameters:
+----------------------------------------
+clip_method: iqr
+corr_thresh: 0.9
+imputer: constant
+iqr_limit: 2.1828030973039554
+model_type: ridge
+na_flag: True
+na_thresh: 0.21240792236490272
+pca: 0.9
+ridge_alpha: 3.817593252521166
+scaler: standard
+skew_fix: log1p
+var_thresh: 0.0001
+
+Baseline Metrics:
+mae: 0.3461
+rmse: 0.4286
+r2: 0.3912
+
+Final Metrics:
+mae: 0.3309
+rmse: 0.4016
+r2: 0.4773

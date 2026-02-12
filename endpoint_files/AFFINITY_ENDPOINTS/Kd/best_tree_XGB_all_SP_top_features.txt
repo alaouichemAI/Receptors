@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: XGB
+Family: tree
+Endpoint: all
+Species: SP
+Total Features: 128
+Top Features Count: 1
+Cumulative Importance: 0.4645
+================================================================================
+
+        feature  importance  importance_normalized  cumulative
+FP_RDKit512_307    0.464545               0.464545    0.464545

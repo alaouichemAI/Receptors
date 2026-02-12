@@ -1,0 +1,17 @@
+Model: PLS
+Estimator: PLSRegression
+Family: pls
+Endpoint: pIC50
+Species: rattus_norvegicus
+Best MAE: 0.336522
+Dataset: 22 samples, 27 features
+Target range: [5.8495, 7.7447]
+Trials completed: 25
+Trials pruned: 0
+Trials failed: 0
+Optimization time: 36.6s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_components: 15

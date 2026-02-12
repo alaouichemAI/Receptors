@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: XGB
+Family: tree
+Endpoint: pEC50
+Species: mus_musculus
+Total Features: 92
+Top Features Count: 1
+Cumulative Importance: 0.3329
+================================================================================
+
+           feature  importance  importance_normalized  cumulative
+FP_AtomPair1024_19    0.332898               0.332898    0.332898

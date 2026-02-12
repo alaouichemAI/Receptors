@@ -1,0 +1,23 @@
+Model: XGB
+Estimator: XGBRegressor
+Family: tree
+Endpoint: pKi
+Species: all_SP
+Best MAE: 0.813678
+Dataset: 72 samples, 129 features
+Target range: [4.1505, 8.8665]
+Trials completed: 12
+Trials pruned: 13
+Trials failed: 0
+Optimization time: 26.6s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_estimators: 300
+max_depth: 5
+learning_rate: 0.017784783357656184
+subsample: 0.8048584065043218
+colsample: 0.5916526779070379
+reg_lambda: 0.08527319891594783
+reg_alpha: 1.348784210217336

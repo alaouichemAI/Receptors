@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: Ridge
+Family: linear
+Endpoint: pKi
+Species: all_SP
+Total Features: 14
+Top Features Count: 1
+Cumulative Importance: 0.2997
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+   pca1    0.251705               0.299676    0.299676

@@ -1,0 +1,19 @@
+Model: MLP_Wide
+Estimator: MLPRegressor
+Family: nn
+Endpoint: pKi
+Species: homo_sapiens
+Best MAE: 1.029180
+Dataset: 72 samples, 740 features
+Target range: [4.1505, 8.8665]
+Trials completed: 12
+Trials pruned: 13
+Trials failed: 0
+Optimization time: 53.0s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+activation: tanh
+alpha: 0.009703707608355004
+lr: 0.0030227884787018553

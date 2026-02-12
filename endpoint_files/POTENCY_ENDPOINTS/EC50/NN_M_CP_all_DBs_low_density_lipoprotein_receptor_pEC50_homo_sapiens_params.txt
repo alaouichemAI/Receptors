@@ -1,0 +1,28 @@
+Endpoint: Unknown
+Samples: 136 | Features: 48
+Best Model: NeuralNetwork_4L_462U_selu
+
+Best Hyperparameters:
+----------------------------------------
+act: selu
+batch_size: 32
+corr_thr: 0.98
+decay: 0.5299154680629138
+dropout: 0.02616514796508806
+lr: 0.00014454576488411776
+n_layers: 4
+na_thresh: 0.38309486297791795
+pca: 0.95
+scaler: standard
+units: 462
+var_thr: 0.0
+
+Baseline Metrics:
+mae: 3.9556
+rmse: 5.8223
+r2: -27.3937
+
+Final Metrics:
+mae: 1.4263
+rmse: 2.5229
+r2: -4.3312

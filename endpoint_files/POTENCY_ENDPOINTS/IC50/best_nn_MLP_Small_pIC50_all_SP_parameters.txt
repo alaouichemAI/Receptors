@@ -1,0 +1,19 @@
+Model: MLP_Small
+Estimator: MLPRegressor
+Family: nn
+Endpoint: pIC50
+Species: all_SP
+Best MAE: 1.143777
+Dataset: 751 samples, 3599 features
+Target range: [3.3724, 11.6990]
+Trials completed: 13
+Trials pruned: 12
+Trials failed: 0
+Optimization time: 158.6s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+activation: relu
+alpha: 8.643801953136475e-05
+lr: 0.0008371623317801152

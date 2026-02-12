@@ -1,0 +1,14 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: LGBM
+Family: tree
+Endpoint: Emax
+Species: mus_musculus
+Total Features: 107
+Top Features Count: 2
+Cumulative Importance: 0.1644
+================================================================================
+
+ feature  importance  importance_normalized  cumulative
+AC2D_152          41               0.091111    0.091111
+ AC3D_59          33               0.073333    0.164444

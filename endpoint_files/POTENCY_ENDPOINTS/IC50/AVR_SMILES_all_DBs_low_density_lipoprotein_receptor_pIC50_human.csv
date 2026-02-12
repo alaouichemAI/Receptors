@@ -1,0 +1,12 @@
+SMILES,pIC50,target,sample_weight
+COC(=O)c1c(N)c(=O)c(O)c2oc3cc(ccc3nc12)N(C)C,5.28,5.281498311132726,1.0
+COC(=O)c1c(Nc2ccccc2)c(=O)c(O)c2oc3cc(ccc3nc12)N(C)C,5.21,5.210419287835574,1.0
+COC(=O)c1c(Nc2ccc(C)cc2)c(=O)c(O)c2oc3cc(ccc3nc12)N(C)C,5.42,5.423658649794207,1.0
+COC(=O)c1c(Nc2ccc(OC)cc2)c(=O)c(O)c2oc3cc(ccc3nc12)N(C)C,5.33,5.326979092871104,1.0
+COC(=O)c1c(Nc2ccc(Cl)c(Cl)c2)c(=O)c(O)c2oc3cc(ccc3nc12)N(C)C,5.31,5.3124710387853655,1.0
+COC(=O)c1c(NCc2ccc(OC)cc2)c(=O)c(O)c2oc3cc(ccc3nc12)N(C)C,5.36,5.363512103646634,1.0
+COC(=O)c1c(N2CCCCC2)c(=O)c(O)c2oc3cc(ccc3nc12)N(C)C,5.26,5.259637310505756,1.0
+COC(=O)c1c(NC2CCCCC2)c(=O)c(O)c2oc3cc(ccc3nc12)N(C)C,5.39,5.391473966422806,1.0
+COC(=O)c1c(N2CCOCC2)c(=O)c(O)c2oc3cc(ccc3nc12)N(C)C,5.43,5.427128397799519,1.0
+COC(=O)c1c(NC2CCCC2)c(=O)c(O)c2oc3cc(ccc3nc12)N(C)C,5.34,5.336299074610352,1.0
+CCCCOC(=O)c1c(NCc2ccc(OC)cc2)c(=O)c(O)c2oc3cc(ccc3nc12)N(C)C,5.47,5.471083299722345,1.0

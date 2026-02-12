@@ -1,0 +1,28 @@
+Endpoint: pkd
+Samples: 44 | Features: 675
+Best Model: ridge
+
+Best Hyperparameters:
+----------------------------------------
+clip_method: iqr
+corr_thresh: 0.95
+imputer: mean
+iqr_limit: 3.0292924081251096
+model_type: ridge
+na_flag: False
+na_thresh: 0.33129418042450076
+pca: 0.99
+ridge_alpha: 19.17121547133627
+scaler: standard
+skew_fix: log1p
+var_thresh: 0.0001
+
+Baseline Metrics:
+mae: 1.0073
+rmse: 1.3219
+r2: 0.4404
+
+Final Metrics:
+mae: 0.9213
+rmse: 1.1458
+r2: 0.6086

@@ -1,0 +1,14 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: PLS
+Family: pls
+Endpoint: pIC50
+Species: all_SP
+Total Features: 186
+Top Features Count: 2
+Cumulative Importance: 0.1554
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+Feat_40    0.764737               0.077981    0.077981
+Feat_39    0.759403               0.077437    0.155419

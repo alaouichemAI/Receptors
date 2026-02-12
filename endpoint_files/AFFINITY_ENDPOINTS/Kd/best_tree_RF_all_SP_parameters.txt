@@ -1,0 +1,20 @@
+Model: RF
+Estimator: RandomForestRegressor
+Family: tree
+Endpoint: all
+Species: SP
+Best MAE: 1.168978
+Dataset: 44 samples, 128 features
+Target range: [-0.5431, 9.5229]
+Trials completed: 25
+Trials pruned: 0
+Trials failed: 0
+Optimization time: 101.7s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_estimators: 300
+max_depth: 14
+min_samples_leaf: 1
+max_features: 0.3

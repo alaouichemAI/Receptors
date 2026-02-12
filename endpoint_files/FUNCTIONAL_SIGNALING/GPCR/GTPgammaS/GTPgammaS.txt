@@ -1,0 +1,36 @@
+Endpoint: GTPgammaS
+Main Category: FUNCTIONAL_SIGNALING
+Subcategory: GPCR
+Target Receptor: Low-density lipoprotein receptor
+Total Receptor Variants: 14
+Endpoint Variants: 7
+================================================================================
+
+RECEPTOR VARIANTS:
+--------------------------------------------------------------------------------
+LDLR
+ldlr
+LDLR Receptor
+LDLR receptor
+receptor LDLR
+Receptor LDLR
+low-density lipoprotein
+Low-density lipoprotein
+LOW-DENSITY LIPOPROTEIN
+Low-densitylipoproteinreceptor
+LOW-DENSITY LIPOPROTEIN RECEPTOR
+Low-density lipoprotein receptor
+low-density lipoprotein receptor
+Low-density-lipoprotein-receptor
+
+================================================================================
+
+ENDPOINT VARIANTS (GTPgammaS):
+--------------------------------------------------------------------------------
+GTPγS
+GTP gamma S
+GTPgammaS
+GTPγS binding
+GTPγS incorporation
+[35S]GTPγS
+GTPγS assay

@@ -1,0 +1,17 @@
+Model: Ridge
+Estimator: Ridge
+Family: linear
+Endpoint: pKi
+Species: all_SP
+Best MAE: 0.904728
+Dataset: 72 samples, 14 features
+Target range: [4.1505, 8.8665]
+Trials completed: 15
+Trials pruned: 10
+Trials failed: 0
+Optimization time: 8.2s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+alpha: 97.42176342115525

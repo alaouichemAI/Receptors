@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: Adaboost
+Family: tree
+Endpoint: pIC50
+Species: rattus_norvegicus
+Total Features: 91
+Top Features Count: 1
+Cumulative Importance: 0.1420
+================================================================================
+
+           feature  importance  importance_normalized  cumulative
+Phys_Quadrupole_YY    0.142045               0.142045    0.142045

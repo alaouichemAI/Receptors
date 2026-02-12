@@ -1,0 +1,29 @@
+Endpoint: pki
+Samples: 72 | Features: 400
+Best Model: bayesian
+
+Best Hyperparameters:
+----------------------------------------
+bay_alpha_1: 2.947981141514274e-06
+bay_lambda_1: 3.0279184334830664e-06
+clip_method: iqr
+corr_thresh: 0.95
+imputer: constant
+iqr_limit: 1.570099505579908
+model_type: bayesian
+na_flag: False
+na_thresh: 0.2635115537596054
+pca: 0.9
+scaler: robust
+skew_fix: yeo-johnson
+var_thresh: 0.001
+
+Baseline Metrics:
+mae: 1.1137
+rmse: 1.2840
+r2: -2.3669
+
+Final Metrics:
+mae: 0.7025
+rmse: 0.8206
+r2: -0.0002

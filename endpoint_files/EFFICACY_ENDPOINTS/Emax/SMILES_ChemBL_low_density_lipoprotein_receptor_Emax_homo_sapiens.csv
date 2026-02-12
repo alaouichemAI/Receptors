@@ -1,0 +1,4 @@
+SMILES,Emax
+CCNC(=O)[C@@H]1CSCC(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@@H](C(C)C)C(=O)N2CCC[C@H]2C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccc(-c3ccccc3)cc2)C(=O)N(C)[C@@H](C)C(=O)N[C@@H](Cc2ccc(-c3ccccc3)cc2)C(=O)N(C)[C@@H](C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](C)C(=O)N2CCC[C@H]2C(=O)N1,90.0
+CCNC(=O)[C@@H]1CSCC(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@@H](C(C)C)C(=O)N2CCC[C@H]2C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccc(-c3ccccc3)cc2)C(=O)N(C)[C@@H](C)C(=O)N[C@@H](Cc2ccc(-c3ccccc3)cc2)C(=O)N(C)[C@@H](C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](C)C(=O)N2CCC[C@H]2C(=O)N1,77.0
+CC(C)[C@@H]1NC(=O)[C@H](Cc2ccccc2)NC(=O)CSC[C@@H](C(=O)NCC(N)=O)NC(=O)[C@@H]2CCCN2C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](C)N(C)C(=O)[C@H](Cc2ccc(-c3ccccc3)cc2)NC(=O)[C@H](C)N(C)C(=O)[C@H](Cc2ccc(-c3ccccc3)cc2)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CO)NC1=O,38.0

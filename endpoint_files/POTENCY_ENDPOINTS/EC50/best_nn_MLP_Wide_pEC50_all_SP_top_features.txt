@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: MLP_Wide
+Family: nn
+Endpoint: pEC50
+Species: all_SP
+Total Features: 50
+Top Features Count: 1
+Cumulative Importance: 0.1777
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+   PC_2    0.766904               0.177683    0.177683

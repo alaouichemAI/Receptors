@@ -1,0 +1,13 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: CAT
+Family: tree
+Endpoint: pIC50
+Species: all_SP
+Total Features: 644
+Top Features Count: 1
+Cumulative Importance: 0.1252
+================================================================================
+
+feature  importance  importance_normalized  cumulative
+RDF_176   12.520474               0.125205    0.125205

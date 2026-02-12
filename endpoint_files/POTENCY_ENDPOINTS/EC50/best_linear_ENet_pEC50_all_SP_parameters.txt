@@ -1,0 +1,18 @@
+Model: ENet
+Estimator: ElasticNet
+Family: linear
+Endpoint: pEC50
+Species: all_SP
+Best MAE: 0.555639
+Dataset: 159 samples, 1620 features
+Target range: [4.4515, 9.9747]
+Trials completed: 21
+Trials pruned: 4
+Trials failed: 0
+Optimization time: 35.2s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+alpha: 0.02940035971640136
+l1_ratio: 0.44522630710636446

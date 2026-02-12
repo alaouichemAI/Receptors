@@ -1,0 +1,21 @@
+Model: GBR
+Estimator: GradientBoostingRegressor
+Family: tree
+Endpoint: pEC50
+Species: all_SP
+Best MAE: 0.561140
+Dataset: 159 samples, 186 features
+Target range: [4.4515, 9.9747]
+Trials completed: 18
+Trials pruned: 7
+Trials failed: 0
+Optimization time: 138.7s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_estimators: 300
+learning_rate: 0.016666983286066417
+max_depth: 3
+subsample: 0.984665661176
+min_samples_leaf: 10

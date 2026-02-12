@@ -1,0 +1,20 @@
+Model: RF
+Estimator: RandomForestRegressor
+Family: tree
+Endpoint: pEC50
+Species: mus_musculus
+Best MAE: 0.313962
+Dataset: 50 samples, 92 features
+Target range: [4.8495, 7.8539]
+Trials completed: 23
+Trials pruned: 2
+Trials failed: 0
+Optimization time: 59.3s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_estimators: 200
+max_depth: 11
+min_samples_leaf: 2
+max_features: log2

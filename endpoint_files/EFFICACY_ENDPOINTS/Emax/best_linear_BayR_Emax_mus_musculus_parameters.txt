@@ -1,0 +1,21 @@
+Model: BayR
+Estimator: BayesianRidge
+Family: linear
+Endpoint: Emax
+Species: mus_musculus
+Best MAE: 14.776855
+Dataset: 42 samples, 26 features
+Target range: [0.0000, 100.0000]
+Trials completed: 25
+Trials pruned: 0
+Trials failed: 0
+Optimization time: 16.0s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+max_iter: 487
+alpha_1: 9.46485828615353e-05
+alpha_2: 8.597726148544376e-06
+lambda_1: 1.6661855119466464e-07
+lambda_2: 2.874830739241124e-07

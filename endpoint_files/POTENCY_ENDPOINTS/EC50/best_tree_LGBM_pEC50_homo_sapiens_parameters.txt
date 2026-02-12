@@ -1,0 +1,24 @@
+Model: LGBM
+Estimator: LGBMRegressor
+Family: tree
+Endpoint: pEC50
+Species: homo_sapiens
+Best MAE: 0.527125
+Dataset: 136 samples, 267 features
+Target range: [4.4515, 9.9747]
+Trials completed: 21
+Trials pruned: 4
+Trials failed: 0
+Optimization time: 26.0s
+Cross-validation: Scaffold split (5 folds)
+
+Best Parameters:
+----------------------------------------
+n_estimators: 100
+max_depth: 11
+learning_rate: 0.08310795711416077
+num_leaves: 192
+subsample: 0.9085081386743783
+colsample: 0.5370223258670452
+reg_lambda: 0.11895896737553548
+reg_alpha: 0.022264204303769682

@@ -1,0 +1,14 @@
+Top Features Contributing to 20% of Performance
+================================================================================
+Model: PLS
+Family: pls
+Endpoint: all
+Species: SP
+Total Features: 50
+Top Features Count: 2
+Cumulative Importance: 0.1929
+================================================================================
+
+             feature  importance  importance_normalized  cumulative
+Graph_Centrality_Max    0.328612               0.117335    0.117335
+     Frag_fr_benzene    0.211720               0.075597    0.192932
